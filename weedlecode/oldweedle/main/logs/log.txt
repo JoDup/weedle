@@ -1,0 +1,150 @@
+#######################################
+#### IN WEEDLE ADJUSTMENT CLIMATE  ####
+#######################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+##############################################
+#### STARTING WEEDLE ADJUSTMENT CLIMATE  ####
+##############################################
+ == IN READ WEEDLE CLIMATE  == 
+##  Read Weedle WTemperature:30
+ == IN READ WEEDLE CLIMATE  == 
+##  Read Weedle WHumidity:80
+ == IN READ WEEDLE CLIMATE  == 
+##  Read Weedle WCO2:60
+ == IN READ WEEDLE CLIMATE  == 
+##  Read Weedle WLuminosity:6000
+####################################
+######   WEEDLE CLIMATE HIGH  ######
+####################################
+## WTemperature = 30
+## WHumidity = 80
+## WCO2 = 60
+## WLuminosity = 6000
+####################################
+ == IN READ WEEDLE CLIMATE  == 
+##  Read Weedle Wtemperature:20
+ == IN READ WEEDLE CLIMATE  == 
+##  Read Weedle Whumidity:50
+ == IN READ WEEDLE CLIMATE  == 
+##  Read Weedle Wco2:40
+ == IN READ WEEDLE CLIMATE  == 
+##  Read Weedle Wluminosity:2000
+####################################
+######    WEEDLE CLIMATE LOW  ######
+####################################
+##  Wtemperature = 20
+##  Whumidity = 50
+##  Wco2 = 40
+##  Wluminosity = 2000
+####################################
+== IN READ AIR TEMPERATURE IN THE BOX == 
+== IN READ AIR HUMIDITY IN THE BOX == 
+##  temperature:18.2 C  humidity : 70 %
+== IN READ AIR TEMPERATURE IN THE BOX == 
+## temperature:18.2 C  humidity : 70 %
+\/\/\/\/\/\/\/\/
+#### ALERT FAILED AIR TEMPERATURE ONCE
+\/\/\/\/\/\/\/\/
+####################################
+####     IN THE BOX CLIMATE     ###
+####################################
+## airTemperature = 18
+## airHumdity = 70
+####################################
+#######  ADJUSTMENT ACTIONS  #######
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT TEMPERATURE STARTING  ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+////////////////////////////
+=======   TOO COLD  ======
+////////////////////////////
+=======   INCREASE OF +++ 2
+////////////////////////////
+------------------------
+= IN INCREASE TEMPERATURE
+------------------------
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle TWater:5
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle TAir:10
+ == IN READ WEEDLE ADJUSTMENT == 
+## Read Weedle TSun:15
+============================
+===  GARDENER TO EXECUTE ===
+============================
+==  water = 5
+==  air = 10
+==  sun = 15
+============================
+---
+###  Caculated WATER in Sec: 10 ###
+---
+## Turn ON WATER for: 10
+## Turn OFF WATER
+---
+###  Caculated AIR in Sec: 20 ###
+---
+## Turn ON AIR for: 20
+## Turn OFF AIR
+---
+### Caculated SUN (hot Air) in Sec: 30 ###
+---
+##  Turn ON SUN - HOT AIR for: 30
+##  Turn OFF SUN - HOT AIR
+---
+###################################################
+####  WEEDLE ADJUSTMENT TEMPERATURE COMPLETED ####
+###################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT HUMIDITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+////////////////////////////
+=====    TOO DRY   =======
+////////////////////////////
+=====    INCREASE OF  +++ 10
+////////////////////////////
+------------------------
+= IN INCREASE TEMPERATURE
+------------------------
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle TWater:5
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle TAir:10
+ == IN READ WEEDLE ADJUSTMENT == 
+## Read Weedle TSun:15
+============================
+===  GARDENER TO EXECUTE ===
+============================
+==  water = 5
+==  air = 10
+==  sun = 15
+============================
+---
+###  Caculated WATER in Sec: 50 ###
+---
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/    BRAIN    /\/\/\/\/\/\/\/\/\/
+####  ALERT TIME ADJUSTMENT TO HIGH TO USE WATER 
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+## Turn ON WATER for: 1
+## Turn OFF WATER
+---
+###  Caculated AIR in Sec: 100 ###
+---
+## Turn ON AIR for: 100
+## Turn OFF AIR
+---
+### Caculated SUN (hot Air) in Sec: 150 ###
+---
+##  Turn ON SUN - HOT AIR for: 150
+##  Turn OFF SUN - HOT AIR
+---
+#################################################
+####  WEEDLE ADJUSTMENT HUMIDITY COMPLETED #####
+#################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+################################################
+####  WEEDLE ADJUSTMENT CLIMATE COMPLETED #####
+################################################
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  

@@ -1,0 +1,54 @@
+####################### 
+## STARTING RECOMMENDATION 2023-03-09 21:20:05.306698
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 23.4
+Moisture: 33
+Light: 5473
+Conductivity: 868
+###### IN PLACE METRIC TRACKER name: Temperature value 23.4 unit: CELCIUS
+###### IN PLACE METRIC TRACKER name: Soil-Moisture value 33 unit: %
+###### IN PLACE METRIC TRACKER name: Sun value 5473 unit: LUX
+###### IN PLACE METRIC TRACKER name: Soil-Fertility value 868 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 23.4 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 33 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### SUN IS GOOD FOR 5473 vs Best Practices min: 3600 max: 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 868 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-09 21:20:08.607362
+####################### 
+###### SET RUN TIME 16
+###### SET RUN TIME MINUTE 402 DEBUG runTimeMinute: 397 diffMinute: 5 currentHour: 21
+###### RECOMMENDATION: Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 21 LUX vs Best Practices 3600 LUX
+###### ELSE STILL MORE SUN
+###### UPDATE THE RUN TIME FOR SUN True RunTime: 16 RunTimeMinute: 402 OffTime: 5 LastHourCheck: 21 LastMinuteCheck 20
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-09 21:20:09.549295
+####################### 
+###### ONE TIME RUN MIN:20
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF AIR
+###### UPDATE THE RUN TIME FOR AIR False RunTime: 0 RunTimeMinute: 300 OffTime: 12 LastHourCheck: 21 LastMinuteCheck 20
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-09 21:20:10.361135
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### TIME MAX MINUTE: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 4 RunTimeMinute: 213 OffTime: 3 LastHourCheck: 21 LastMinuteCheck 20
+                        
+                        

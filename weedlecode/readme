@@ -1,0 +1,96 @@
+SAME WIFI as device
+
+README
+This README provides instructions on how to install and use various tools and libraries on a Raspberry Pi. Please note that some commands may require superuser privileges (i.e., run with sudo).
+
+    3  pip3 install python-kasa
+    4  echo $PATH
+   14  export PATH=/home/weedle/.local/bin:$PATH
+   15  which kasa
+   33  kasa --help
+   40  kasa discover
+   42  python kasadiscover.py 
+   43  python kasaquery.py 
+
+
+
+
+   46  sudo apt-get install python3-pip libglib2.0-dev
+   47  sudo python3 -m bluepy.bluepy-helper
+   48  cd ~/bluepy/
+   49  cd bluepy
+   50  make
+   58  sudo python -m bluepy.bluepy-helper
+   59  history
+
+   81  sudo pip3 install miflora
+   82  python mifloratest.py 
+   83  python kasadiscover.py 
+   84  python mifloratest.py 
+   85  python kasasmartplug.py 
+   86  python kasadiscover.py 
+   87  python kasasmartplug.py 
+   88  sudo pip install pyHS100
+   90  python kasasmartplug.py 
+
+  141  sudo apt-get install libusb-1.0-0-dev libudev-dev libcairo2-dev libjpeg-dev libgif-dev
+
+  144  sudo apt-get update
+  145  sudo apt-get install python-pip libusb-1.0-0-dev libudev-dev
+  148  sudo apt-get install bluez python3-pip
+
+  149  sudo hcitool lescan
+
+  150  sudo pip3 install bluepy
+  151  sudo hcitool lescan
+  189  export PYTHONPATH=$PYTHONPATH:~/bluepy
+  190  sudo python3 -m bluepy.bluepy-helper
+  191  sudo python3 ~/bluepy/bluepy/bluepy-helper
+  192  vi ~/bluepy/bluepy/bluepy-helper
+  193  file ~/bluepy/bluepy/bluepy-helper
+  194  sudo python3 ~/bluepy/bluepy/bluepy-helper
+
+  241  sudo apt-get install python3-pip libglib2.0-dev
+  242  sudo pip3 install bluepy
+  243  sudo hcitool lescan
+  244  python btle.py 5C:85:7E:B0:40:38
+
+  266  vi bluepy-helper.c 
+  267  make
+
+  293  python mifloratest.py 
+  294  python kasasmartplug.py 
+  295  python mifloratest.py 
+  296  python kasasmartplug.py 
+
+
+sudo apt-get install sqlite3
+sudo apt-get install sqlitebrowser
+
+install camera
+sudo raspi-config
+
+In the configuration menu, navigate to "Interfacing Options" and select it.
+
+Scroll down to "Camera" and select it.
+
+Choose "Yes" to enable the camera.
+
+Exit the configuration menu and save your changes. You will be prompted to reboot your Raspberry Pi for the changes to take effect.
+
+After rebooting your Raspberry Pi, the camera should be enabled and ready to use. You can use the "raspistill" command to capture images, as I mentioned in my previous response.
+
+
+
+graph
+pip install matplotlib
+sudo apt-get install libatlas-base-dev
+
+secure email two step
+add apps pwd
+https://myaccount.google.com/apppasswords?utm_source=google-account&utm_medium=web
+
+pip install bleparser
+
+
+
