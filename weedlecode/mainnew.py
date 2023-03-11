@@ -22,17 +22,33 @@ def init():
         ## For each plant do the job
         plantSize=row[2]
         
-        #first run the recommendation
-        weedleRecommendation(conn,plantSize)
+        try:
+           weedleRecommendation(conn,plantSize)
+        except Exception as e:  # When 'Ctrl+C' is pressed, the child program destroy() will be  executed.
+           print('##########################')
+           print('### RECOMMENDATION FAILED')
+           print('### with issue ',e)	
+           print('##########################')
+           print('                          ')
                 
-        garden = conn.execute("SELECT * FROM W_WEEDLE_GARDEN WHERE DEVICE_TYPE='CONTROL'")
-        for row in garden:
-           ## For each plant do the job
-           activity=row[1]
-           #second run the schedule calculation for each element
-           maintainWeedleSchedule(conn,plantSize,activity)
-           #third execute on the activity
-           weedleRunActivity(conn,plantSize,activity)
+        try:
+
+           garden = conn.execute("SELECT * FROM W_WEEDLE_GARDEN WHERE DEVICE_TYPE='CONTROL'")
+
+           for row in garden:
+              ## For each plant do the job
+              activity=row[1]
+              #second run the schedule calculation for each element
+              maintainWeedleSchedule(conn,plantSize,activity)
+              #third execute on the activity
+              weedleRunActivity(conn,plantSize,activity)
+ 
+        except Exception as e:  # When 'Ctrl+C' is pressed, the child program destroy() will be  executed.
+           print('##########################')
+           print('### MAINTAIN SCHEDULE FAILED')
+           print('### with issue ',e)	
+           print('##########################')
+           print('                          ')
     
     conn.commit()
     conn.close()

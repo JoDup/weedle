@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/home/weedle/weedlecode/util/sendWeedleReport.py", line 7, in <module>
+    from reportGenerator.weedleRecommendationMsg import weedleRecommendation
+  File "/home/weedle/weedlecode/util/reportGenerator/weedleRecommendationMsg.py", line 38
+    +"<tr>"
+IndentationError: unexpected indent

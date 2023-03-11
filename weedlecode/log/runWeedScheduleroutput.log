@@ -1132,3 +1132,1638 @@ Conductivity: 826
 ################ TURN ON DEVICE :SUN
                         
                         
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 23:00:04.880876
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 21.6
+Moisture: 31
+Light: 7754
+Conductivity: 829
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 21.6 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 31 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 7754 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 829 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 21.6 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 31 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### SUN IS GOOD FOR 7754 vs Best Practices min: 3600 max: 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 829 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-10 23:00:07.675172
+####################### 
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:2
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### NO TASK EXISTS YET SCENARIO WATER EXIST FOR DAY 0 START_HOUR 0 START_MINUTE 0 END_HOUR 0 END_MINUTE 0
+###### UPDATE THE RUN TIME FOR WATER arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 23:00:07.679679
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 0
+######### SCHEDULER FOUND :-1
+################ TURN OFF DEVICE :WATER
+                        
+                        
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-10 23:00:07.853090
+####################### 
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 0 tsStopHour8
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:10
+###### ACTIVITY CONSTRAINT RUN MAX_MINUTE_PER_HOUR_ON:20
+###### NO CONSTRAINT STILL MORE AIR
+###### INSERTING A TASK IN WEEDLE SCHEDULE FOR AIR DAY 2023-03-10 START_HOUR 23 START_MINUTE 0
+###### UPDATE THE RUN TIME FOR AIR arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 23:00:07.855480
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 1
+######### SCHEDULER FOUND :5
+################ TURN ON DEVICE :AIR
+                        
+                        
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-10 23:00:08.110434
+####################### 
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 18 tsStopHour21
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:19
+###### NO CONSTRAINT STILL MORE SUN
+###### NOTHING TO DO ACTIVE ACTIVITY SUN EXIST FOR DAY 2023-03-10 START_HOUR 21 START_MINUTE 32 END_HOUR None END_MINUTE None
+###### UPDATE THE RUN TIME FOR SUN arTotalHourON: 4 arTotalMinuteON: 240 arTotalHourOFF: 20 arTotalMinuteOFF: 3360 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING SUN CHECK at 2023-03-10 23:00:08.112835
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 2
+######### SCHEDULER FOUND :3
+################ TURN ON DEVICE :SUN
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 23:05:04.858787
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 22.6
+Moisture: 33
+Light: 12530
+Conductivity: 809
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 22.6 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 33 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 12530 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 809 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 22.6 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 33 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### SUN IS GOOD FOR 12530 vs Best Practices min: 3600 max: 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 809 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-10 23:05:08.700044
+####################### 
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:2
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### NO TASK EXISTS YET SCENARIO WATER EXIST FOR DAY 0 START_HOUR 0 START_MINUTE 0 END_HOUR 0 END_MINUTE 0
+###### UPDATE THE RUN TIME FOR WATER arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 23:05:08.704461
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 0
+######### SCHEDULER FOUND :-1
+################ TURN OFF DEVICE :WATER
+                        
+                        
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-10 23:05:08.924333
+####################### 
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 0 tsStopHour8
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:10
+###### ACTIVITY CONSTRAINT RUN MAX_MINUTE_PER_HOUR_ON:20
+###### NO CONSTRAINT STILL MORE AIR
+###### NOTHING TO DO ACTIVE ACTIVITY AIR EXIST FOR DAY 2023-03-10 START_HOUR 23 START_MINUTE 0 END_HOUR None END_MINUTE None
+###### UPDATE THE RUN TIME FOR AIR arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 23:05:08.926417
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 1
+######### SCHEDULER FOUND :5
+################ TURN ON DEVICE :AIR
+                        
+                        
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-10 23:05:09.170900
+####################### 
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 18 tsStopHour21
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:19
+###### NO CONSTRAINT STILL MORE SUN
+###### NOTHING TO DO ACTIVE ACTIVITY SUN EXIST FOR DAY 2023-03-10 START_HOUR 21 START_MINUTE 32 END_HOUR None END_MINUTE None
+###### UPDATE THE RUN TIME FOR SUN arTotalHourON: 4 arTotalMinuteON: 240 arTotalHourOFF: 20 arTotalMinuteOFF: 3360 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING SUN CHECK at 2023-03-10 23:05:09.172659
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 2
+######### SCHEDULER FOUND :3
+################ TURN ON DEVICE :SUN
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 23:10:04.607100
+####################### 
+Traceback (most recent call last):
+  File "/home/weedle/weedlecode/mainnew.py", line 42, in <module>
+    init()
+  File "/home/weedle/weedlecode/mainnew.py", line 26, in init
+    weedleRecommendation(conn,plantSize)
+  File "/home/weedle/weedlecode/util/weedleRecommendation.py", line 73, in weedleRecommendation
+    conn.execute("delete from w_weedle_recommendation where date(day) < date('now','-3 days')")
+sqlite3.OperationalError: database is locked
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 23:15:05.337095
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 23.9
+Moisture: 32
+Light: 12496
+Conductivity: 791
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 23.9 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 12496 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 791 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 23.9 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### SUN IS GOOD FOR 12496 vs Best Practices min: 3600 max: 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 791 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-10 23:15:15.142723
+####################### 
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:2
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### NO TASK EXISTS YET SCENARIO WATER EXIST FOR DAY 0 START_HOUR 0 START_MINUTE 0 END_HOUR 0 END_MINUTE 0
+###### UPDATE THE RUN TIME FOR WATER arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 23:15:15.147237
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 0
+######### SCHEDULER FOUND :-1
+################ TURN OFF DEVICE :WATER
+                        
+                        
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-10 23:15:15.369147
+####################### 
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 0 tsStopHour8
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:10
+###### ACTIVITY CONSTRAINT RUN MAX_MINUTE_PER_HOUR_ON:20
+###### NO CONSTRAINT STILL MORE AIR
+###### NOTHING TO DO ACTIVE ACTIVITY AIR EXIST FOR DAY 2023-03-10 START_HOUR 23 START_MINUTE 0 END_HOUR None END_MINUTE None
+###### UPDATE THE RUN TIME FOR AIR arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 23:15:15.371453
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 1
+######### SCHEDULER FOUND :5
+################ TURN ON DEVICE :AIR
+                        
+                        
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-10 23:15:15.660050
+####################### 
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 18 tsStopHour21
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:19
+###### NO CONSTRAINT STILL MORE SUN
+###### NOTHING TO DO ACTIVE ACTIVITY SUN EXIST FOR DAY 2023-03-10 START_HOUR 21 START_MINUTE 32 END_HOUR None END_MINUTE None
+###### UPDATE THE RUN TIME FOR SUN arTotalHourON: 4 arTotalMinuteON: 240 arTotalHourOFF: 20 arTotalMinuteOFF: 3360 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING SUN CHECK at 2023-03-10 23:15:15.661877
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 2
+######### SCHEDULER FOUND :3
+################ TURN ON DEVICE :SUN
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 23:20:05.585281
+####################### 
+Traceback (most recent call last):
+  File "/home/weedle/weedlecode/mainnew.py", line 42, in <module>
+    init()
+  File "/home/weedle/weedlecode/mainnew.py", line 26, in init
+    weedleRecommendation(conn,plantSize)
+  File "/home/weedle/weedlecode/util/weedleRecommendation.py", line 73, in weedleRecommendation
+    conn.execute("delete from w_weedle_recommendation where date(day) < date('now','-3 days')")
+sqlite3.OperationalError: database is locked
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 23:25:05.282512
+####################### 
+Traceback (most recent call last):
+  File "/home/weedle/weedlecode/mainnew.py", line 42, in <module>
+    init()
+  File "/home/weedle/weedlecode/mainnew.py", line 26, in init
+    weedleRecommendation(conn,plantSize)
+  File "/home/weedle/weedlecode/util/weedleRecommendation.py", line 73, in weedleRecommendation
+    conn.execute("delete from w_weedle_recommendation where date(day) < date('now','-3 days')")
+sqlite3.OperationalError: database is locked
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 23:30:04.469544
+####################### 
+Traceback (most recent call last):
+  File "/home/weedle/weedlecode/mainnew.py", line 42, in <module>
+    init()
+  File "/home/weedle/weedlecode/mainnew.py", line 26, in init
+    weedleRecommendation(conn,plantSize)
+  File "/home/weedle/weedlecode/util/weedleRecommendation.py", line 73, in weedleRecommendation
+    conn.execute("delete from w_weedle_recommendation where date(day) < date('now','-3 days')")
+sqlite3.OperationalError: database is locked
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 23:35:05.117289
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 25.3
+Moisture: 32
+Light: 6031
+Conductivity: 784
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 25.3 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 6031 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 784 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 25.3 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### SUN IS GOOD FOR 6031 vs Best Practices min: 3600 max: 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 784 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-10 23:35:14.105416
+####################### 
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:2
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### NO TASK EXISTS YET SCENARIO WATER EXIST FOR DAY 0 START_HOUR 0 START_MINUTE 0 END_HOUR 0 END_MINUTE 0
+###### UPDATE THE RUN TIME FOR WATER arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 23:35:14.112412
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 0
+######### SCHEDULER FOUND :-1
+################ TURN OFF DEVICE :WATER
+                        
+                        
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-10 23:35:14.313680
+####################### 
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 0 tsStopHour8
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:10
+###### ACTIVITY CONSTRAINT RUN MAX_MINUTE_PER_HOUR_ON:20
+###### ACTIVITY CONSTRAINT RUN MAX_MINUTE_PER_HOUR_ON:20
+###### TURN OFF ACTIVITY AIR EXIST FOR DAY 2023-03-10 START_HOUR 23 START_MINUTE 0 END_HOUR None END_MINUTE None
+###### UPDATE THE RUN TIME FOR AIR arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 23:35:14.316180
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 1
+######### SCHEDULER FOUND :-1
+################ TURN OFF DEVICE :AIR
+                        
+                        
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-10 23:35:14.577687
+####################### 
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 18 tsStopHour21
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:19
+###### NO CONSTRAINT STILL MORE SUN
+###### NOTHING TO DO ACTIVE ACTIVITY SUN EXIST FOR DAY 2023-03-10 START_HOUR 21 START_MINUTE 32 END_HOUR None END_MINUTE None
+###### UPDATE THE RUN TIME FOR SUN arTotalHourON: 4 arTotalMinuteON: 240 arTotalHourOFF: 20 arTotalMinuteOFF: 3360 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING SUN CHECK at 2023-03-10 23:35:14.579642
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 2
+######### SCHEDULER FOUND :3
+################ TURN ON DEVICE :SUN
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 23:40:04.663304
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 24.3
+Moisture: 32
+Light: 12367
+Conductivity: 794
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 24.3 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 12367 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 794 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 24.3 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### SUN IS GOOD FOR 12367 vs Best Practices min: 3600 max: 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 794 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-10 23:40:08.624379
+####################### 
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:2
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### NO TASK EXISTS YET SCENARIO WATER EXIST FOR DAY 0 START_HOUR 0 START_MINUTE 0 END_HOUR 0 END_MINUTE 0
+###### UPDATE THE RUN TIME FOR WATER arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 23:40:08.628935
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 0
+######### SCHEDULER FOUND :-1
+################ TURN OFF DEVICE :WATER
+                        
+                        
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-10 23:40:08.713083
+####################### 
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 0 tsStopHour8
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:10
+###### ACTIVITY CONSTRAINT RUN MAX_MINUTE_PER_HOUR_ON:20
+###### ACTIVITY CONSTRAINT RUN MAX_MINUTE_PER_HOUR_ON:20
+###### NO TASK EXISTS YET SCENARIO AIR EXIST FOR DAY 0 START_HOUR 0 START_MINUTE 0 END_HOUR 0 END_MINUTE 0
+###### UPDATE THE RUN TIME FOR AIR arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 23:40:08.714885
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 1
+######### SCHEDULER FOUND :-1
+################ TURN OFF DEVICE :AIR
+                        
+                        
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-10 23:40:08.984086
+####################### 
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 18 tsStopHour21
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:19
+###### NO CONSTRAINT STILL MORE SUN
+###### NOTHING TO DO ACTIVE ACTIVITY SUN EXIST FOR DAY 2023-03-10 START_HOUR 21 START_MINUTE 32 END_HOUR None END_MINUTE None
+###### UPDATE THE RUN TIME FOR SUN arTotalHourON: 4 arTotalMinuteON: 240 arTotalHourOFF: 20 arTotalMinuteOFF: 3360 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING SUN CHECK at 2023-03-10 23:40:08.985953
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 2
+######### SCHEDULER FOUND :3
+################ TURN ON DEVICE :SUN
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 23:45:04.753804
+####################### 
+Traceback (most recent call last):
+  File "/home/weedle/weedlecode/mainnew.py", line 42, in <module>
+    init()
+  File "/home/weedle/weedlecode/mainnew.py", line 26, in init
+    weedleRecommendation(conn,plantSize)
+  File "/home/weedle/weedlecode/util/weedleRecommendation.py", line 73, in weedleRecommendation
+    conn.execute("delete from w_weedle_recommendation where date(day) < date('now','-3 days')")
+sqlite3.OperationalError: database is locked
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 23:50:05.068430
+####################### 
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/dist-packages/btlewrap/bluepy.py", line 27, in _func_wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.9/dist-packages/btlewrap/bluepy.py", line 60, in connect
+    self._peripheral = Peripheral(mac, iface=iface, addrType=self.address_type)
+  File "/usr/local/lib/python3.9/dist-packages/bluepy-1.3.0-py3.9.egg/bluepy/btle.py", line 411, in __init__
+    self._connect(deviceAddr, addrType, iface, timeout)
+  File "/usr/local/lib/python3.9/dist-packages/bluepy-1.3.0-py3.9.egg/bluepy/btle.py", line 467, in _connect
+    raise BTLEDisconnectError("Failed to connect to peripheral %s, addr type: %s"
+bluepy.btle.BTLEDisconnectError: Failed to connect to peripheral 5C:85:7E:B0:40:38, addr type: public
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/weedle/weedlecode/mainnew.py", line 42, in <module>
+    init()
+  File "/home/weedle/weedlecode/mainnew.py", line 26, in init
+    weedleRecommendation(conn,plantSize)
+  File "/home/weedle/weedlecode/util/weedleRecommendation.py", line 116, in weedleRecommendation
+    temperature=poller.parameter_value('temperature')
+  File "/usr/local/lib/python3.9/dist-packages/miflora/miflora_poller.py", line 175, in parameter_value
+    self.fill_cache()
+  File "/usr/local/lib/python3.9/dist-packages/miflora/miflora_poller.py", line 86, in fill_cache
+    firmware_version = self.firmware_version()
+  File "/usr/local/lib/python3.9/dist-packages/miflora/miflora_poller.py", line 139, in firmware_version
+    with self._bt_interface.connect(self._mac) as connection:
+  File "/usr/local/lib/python3.9/dist-packages/btlewrap/base.py", line 54, in __enter__
+    self._backend.connect(self._mac)
+  File "/usr/local/lib/python3.9/dist-packages/btlewrap/bluepy.py", line 35, in _func_wrapper
+    raise BluetoothBackendException() from last_error
+btlewrap.base.BluetoothBackendException
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 23:55:05.064246
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 22.9
+Moisture: 32
+Light: 12013
+Conductivity: 823
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 22.9 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 12013 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 823 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 22.9 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### SUN IS GOOD FOR 12013 vs Best Practices min: 3600 max: 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 823 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-10 23:55:08.265360
+####################### 
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:2
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### NO TASK EXISTS YET SCENARIO WATER EXIST FOR DAY 0 START_HOUR 0 START_MINUTE 0 END_HOUR 0 END_MINUTE 0
+###### UPDATE THE RUN TIME FOR WATER arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 23:55:08.269862
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 0
+######### SCHEDULER FOUND :-1
+################ TURN OFF DEVICE :WATER
+                        
+                        
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-10 23:55:08.484491
+####################### 
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 0 tsStopHour8
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:10
+###### ACTIVITY CONSTRAINT RUN MAX_MINUTE_PER_HOUR_ON:20
+###### ACTIVITY CONSTRAINT RUN MAX_MINUTE_PER_HOUR_ON:20
+###### NO TASK EXISTS YET SCENARIO AIR EXIST FOR DAY 0 START_HOUR 0 START_MINUTE 0 END_HOUR 0 END_MINUTE 0
+###### UPDATE THE RUN TIME FOR AIR arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 23:55:08.486759
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 1
+######### SCHEDULER FOUND :-1
+################ TURN OFF DEVICE :AIR
+                        
+                        
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-10 23:55:08.639886
+####################### 
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 18 tsStopHour21
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:19
+###### NO CONSTRAINT STILL MORE SUN
+###### NOTHING TO DO ACTIVE ACTIVITY SUN EXIST FOR DAY 2023-03-10 START_HOUR 21 START_MINUTE 32 END_HOUR None END_MINUTE None
+###### UPDATE THE RUN TIME FOR SUN arTotalHourON: 4 arTotalMinuteON: 240 arTotalHourOFF: 20 arTotalMinuteOFF: 3360 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING SUN CHECK at 2023-03-10 23:55:08.641915
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 2
+######### SCHEDULER FOUND :3
+################ TURN ON DEVICE :SUN
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-11 00:00:04.858316
+####################### 
+##########################
+### RECOMMENDATION FAILED
+### with issue  database is locked
+##########################
+                          
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 00:00:09.877353
+####################### 
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:2
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### NO TASK EXISTS YET SCENARIO WATER EXIST FOR DAY 0 START_HOUR 0 START_MINUTE 0 END_HOUR 0 END_MINUTE 0
+###### INSERTING THE ACTIVITY RUN TIME FOR WATER DAY 2023-03-11 MIN 0 Last Hour 0
+Traceback (most recent call last):
+  File "/home/weedle/weedlecode/mainnew.py", line 48, in <module>
+    init()
+  File "/home/weedle/weedlecode/mainnew.py", line 39, in init
+    maintainWeedleSchedule(conn,plantSize,activity)
+  File "/home/weedle/weedlecode/util/weedleScheduler.py", line 254, in maintainWeedleSchedule
+    conn.execute("INSERT INTO W_ACTIVITY_RUNTIME (ACTIVITY, DAY, TOTAL_HOUR_ON, TOTAL_MINUTE_ON, TOTAL_HOUR_OFF, TOTAL_MINUTE_OFF, TOTAL_HOUR_ONOFF, TOTAL_MINUTE_ONOFF) VALUES (?, ?, ?, ?, ?, ?, ?, ?)",
+sqlite3.OperationalError: database is locked
+####################### 
+## STARTING RECOMMENDATION 2023-03-11 00:05:04.571591
+####################### 
+##########################
+### RECOMMENDATION FAILED
+### with issue  database is locked
+##########################
+                          
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 00:05:09.591604
+####################### 
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:2
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### NO TASK EXISTS YET SCENARIO WATER EXIST FOR DAY 0 START_HOUR 0 START_MINUTE 0 END_HOUR 0 END_MINUTE 0
+###### INSERTING THE ACTIVITY RUN TIME FOR WATER DAY 2023-03-11 MIN 5 Last Hour 0
+Traceback (most recent call last):
+  File "/home/weedle/weedlecode/mainnew.py", line 48, in <module>
+    init()
+  File "/home/weedle/weedlecode/mainnew.py", line 39, in init
+    maintainWeedleSchedule(conn,plantSize,activity)
+  File "/home/weedle/weedlecode/util/weedleScheduler.py", line 254, in maintainWeedleSchedule
+    conn.execute("INSERT INTO W_ACTIVITY_RUNTIME (ACTIVITY, DAY, TOTAL_HOUR_ON, TOTAL_MINUTE_ON, TOTAL_HOUR_OFF, TOTAL_MINUTE_OFF, TOTAL_HOUR_ONOFF, TOTAL_MINUTE_ONOFF) VALUES (?, ?, ?, ?, ?, ?, ?, ?)",
+sqlite3.OperationalError: database is locked
+####################### 
+## STARTING RECOMMENDATION 2023-03-11 00:10:05.244763
+####################### 
+##########################
+### RECOMMENDATION FAILED
+### with issue  database is locked
+##########################
+                          
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 00:10:10.261127
+####################### 
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:2
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### NO TASK EXISTS YET SCENARIO WATER EXIST FOR DAY 0 START_HOUR 0 START_MINUTE 0 END_HOUR 0 END_MINUTE 0
+###### INSERTING THE ACTIVITY RUN TIME FOR WATER DAY 2023-03-11 MIN 10 Last Hour 0
+Traceback (most recent call last):
+  File "/home/weedle/weedlecode/mainnew.py", line 48, in <module>
+    init()
+  File "/home/weedle/weedlecode/mainnew.py", line 39, in init
+    maintainWeedleSchedule(conn,plantSize,activity)
+  File "/home/weedle/weedlecode/util/weedleScheduler.py", line 254, in maintainWeedleSchedule
+    conn.execute("INSERT INTO W_ACTIVITY_RUNTIME (ACTIVITY, DAY, TOTAL_HOUR_ON, TOTAL_MINUTE_ON, TOTAL_HOUR_OFF, TOTAL_MINUTE_OFF, TOTAL_HOUR_ONOFF, TOTAL_MINUTE_ONOFF) VALUES (?, ?, ?, ?, ?, ?, ?, ?)",
+sqlite3.OperationalError: database is locked
+####################### 
+## STARTING RECOMMENDATION 2023-03-11 00:15:04.536128
+####################### 
+##########################
+### RECOMMENDATION FAILED
+### with issue  
+##########################
+                          
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 00:15:14.011474
+####################### 
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:2
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### NO TASK EXISTS YET SCENARIO WATER EXIST FOR DAY 0 START_HOUR 0 START_MINUTE 0 END_HOUR 0 END_MINUTE 0
+###### UPDATE THE RUN TIME FOR WATER arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-11 00:15:14.022415
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 0
+######### SCHEDULER FOUND :-1
+################ TURN OFF DEVICE :WATER
+                        
+                        
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 00:15:14.218784
+####################### 
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 0 tsStopHour8
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:10
+###### ACTIVITY CONSTRAINT RUN MAX_MINUTE_PER_HOUR_ON:20
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 0 tsStopHour8
+###### NO TASK EXISTS YET SCENARIO AIR EXIST FOR DAY 0 START_HOUR 0 START_MINUTE 0 END_HOUR 0 END_MINUTE 0
+###### UPDATE THE RUN TIME FOR AIR arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-11 00:15:14.220903
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 1
+######### SCHEDULER FOUND :-1
+################ TURN OFF DEVICE :AIR
+                        
+                        
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 00:15:14.473339
+####################### 
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 18 tsStopHour21
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:19
+###### NO CONSTRAINT STILL MORE SUN
+###### NOTHING TO DO ACTIVE ACTIVITY SUN EXIST FOR DAY 2023-03-11 START_HOUR 0 START_MINUTE 14 END_HOUR None END_MINUTE None
+###### UPDATE THE RUN TIME FOR SUN arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING SUN CHECK at 2023-03-11 00:15:14.475390
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 2
+######### SCHEDULER FOUND :6
+################ TURN ON DEVICE :SUN
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-11 00:20:05.139206
+####################### 
+##########################
+### RECOMMENDATION FAILED
+### with issue  database is locked
+##########################
+                          
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 00:20:10.155812
+####################### 
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:2
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### NO TASK EXISTS YET SCENARIO WATER EXIST FOR DAY 0 START_HOUR 0 START_MINUTE 0 END_HOUR 0 END_MINUTE 0
+###### UPDATE THE RUN TIME FOR WATER arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+Traceback (most recent call last):
+  File "/home/weedle/weedlecode/mainnew.py", line 48, in <module>
+    init()
+  File "/home/weedle/weedlecode/mainnew.py", line 39, in init
+    maintainWeedleSchedule(conn,plantSize,activity)
+  File "/home/weedle/weedlecode/util/weedleScheduler.py", line 281, in maintainWeedleSchedule
+    conn.execute("UPDATE W_ACTIVITY_RUNTIME SET   TOTAL_HOUR_ON=?, TOTAL_MINUTE_ON=?, TOTAL_HOUR_OFF=?, TOTAL_MINUTE_OFF=?, TOTAL_HOUR_ONOFF=? , TOTAL_MINUTE_ONOFF=? WHERE W_AR_ID=?" ,
+sqlite3.OperationalError: database is locked
+####################### 
+## STARTING RECOMMENDATION 2023-03-11 00:25:04.486108
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 22.3
+Moisture: 32
+Light: 12646
+Conductivity: 836
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 22.3 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 12646 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 836 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 22.3 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### SUN IS GOOD FOR 12646 vs Best Practices min: 3600 max: 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 836 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 00:25:06.818575
+####################### 
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:2
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### NO TASK EXISTS YET SCENARIO WATER EXIST FOR DAY 0 START_HOUR 0 START_MINUTE 0 END_HOUR 0 END_MINUTE 0
+###### UPDATE THE RUN TIME FOR WATER arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-11 00:25:06.823357
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 0
+######### SCHEDULER FOUND :-1
+################ TURN OFF DEVICE :WATER
+                        
+                        
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 00:25:07.068633
+####################### 
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 0 tsStopHour8
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:10
+###### ACTIVITY CONSTRAINT RUN MAX_MINUTE_PER_HOUR_ON:20
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 0 tsStopHour8
+###### NO TASK EXISTS YET SCENARIO AIR EXIST FOR DAY 0 START_HOUR 0 START_MINUTE 0 END_HOUR 0 END_MINUTE 0
+###### UPDATE THE RUN TIME FOR AIR arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-11 00:25:07.070408
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 1
+######### SCHEDULER FOUND :-1
+################ TURN OFF DEVICE :AIR
+                        
+                        
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 00:25:07.324005
+####################### 
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 18 tsStopHour21
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:19
+###### NO CONSTRAINT STILL MORE SUN
+###### NOTHING TO DO ACTIVE ACTIVITY SUN EXIST FOR DAY 2023-03-11 START_HOUR 0 START_MINUTE 14 END_HOUR None END_MINUTE None
+###### UPDATE THE RUN TIME FOR SUN arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING SUN CHECK at 2023-03-11 00:25:07.325844
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 2
+######### SCHEDULER FOUND :6
+################ TURN ON DEVICE :SUN
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-11 00:30:05.120344
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 22.2
+Moisture: 32
+Light: 6833
+Conductivity: 842
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 22.2 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 6833 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 842 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 22.2 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### SUN IS GOOD FOR 6833 vs Best Practices min: 3600 max: 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 842 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 00:30:07.630315
+####################### 
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:2
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### NO TASK EXISTS YET SCENARIO WATER EXIST FOR DAY 0 START_HOUR 0 START_MINUTE 0 END_HOUR 0 END_MINUTE 0
+###### UPDATE THE RUN TIME FOR WATER arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-11 00:30:07.634821
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 0
+######### SCHEDULER FOUND :-1
+################ TURN OFF DEVICE :WATER
+                        
+                        
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 00:30:07.908729
+####################### 
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 0 tsStopHour8
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:10
+###### ACTIVITY CONSTRAINT RUN MAX_MINUTE_PER_HOUR_ON:20
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 0 tsStopHour8
+###### NO TASK EXISTS YET SCENARIO AIR EXIST FOR DAY 0 START_HOUR 0 START_MINUTE 0 END_HOUR 0 END_MINUTE 0
+###### UPDATE THE RUN TIME FOR AIR arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-11 00:30:07.910610
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 1
+######### SCHEDULER FOUND :-1
+################ TURN OFF DEVICE :AIR
+                        
+                        
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 00:30:08.172967
+####################### 
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 18 tsStopHour21
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:19
+###### NO CONSTRAINT STILL MORE SUN
+###### NOTHING TO DO ACTIVE ACTIVITY SUN EXIST FOR DAY 2023-03-11 START_HOUR 0 START_MINUTE 14 END_HOUR None END_MINUTE None
+###### UPDATE THE RUN TIME FOR SUN arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING SUN CHECK at 2023-03-11 00:30:08.174883
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 2
+######### SCHEDULER FOUND :6
+################ TURN ON DEVICE :SUN
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-11 00:35:05.029088
+####################### 
+##########################
+### RECOMMENDATION FAILED
+### with issue  database is locked
+##########################
+                          
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 00:35:10.043103
+####################### 
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:2
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### NO TASK EXISTS YET SCENARIO WATER EXIST FOR DAY 0 START_HOUR 0 START_MINUTE 0 END_HOUR 0 END_MINUTE 0
+###### UPDATE THE RUN TIME FOR WATER arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+##########################
+### MAINTAIN SCHEDULE FAILED
+### with issue  database is locked
+##########################
+                          
+####################### 
+## STARTING RECOMMENDATION 2023-03-11 00:40:04.845334
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 22.2
+Moisture: 32
+Light: 12013
+Conductivity: 842
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 22.2 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 12013 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 842 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 22.2 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### SUN IS GOOD FOR 12013 vs Best Practices min: 3600 max: 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 842 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 00:40:09.083134
+####################### 
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:2
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### NO TASK EXISTS YET SCENARIO WATER EXIST FOR DAY 0 START_HOUR 0 START_MINUTE 0 END_HOUR 0 END_MINUTE 0
+###### UPDATE THE RUN TIME FOR WATER arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-11 00:40:09.088387
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 0
+######### SCHEDULER FOUND :-1
+################ TURN OFF DEVICE :WATER
+                        
+                        
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 00:40:09.182566
+####################### 
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 0 tsStopHour8
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:10
+###### ACTIVITY CONSTRAINT RUN MAX_MINUTE_PER_HOUR_ON:20
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 0 tsStopHour8
+###### NO TASK EXISTS YET SCENARIO AIR EXIST FOR DAY 0 START_HOUR 0 START_MINUTE 0 END_HOUR 0 END_MINUTE 0
+###### UPDATE THE RUN TIME FOR AIR arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-11 00:40:09.184354
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 1
+######### SCHEDULER FOUND :-1
+################ TURN OFF DEVICE :AIR
+                        
+                        
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 00:40:09.445025
+####################### 
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 18 tsStopHour21
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:19
+###### NO CONSTRAINT STILL MORE SUN
+###### NOTHING TO DO ACTIVE ACTIVITY SUN EXIST FOR DAY 2023-03-11 START_HOUR 0 START_MINUTE 14 END_HOUR None END_MINUTE None
+###### UPDATE THE RUN TIME FOR SUN arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING SUN CHECK at 2023-03-11 00:40:09.446959
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 2
+######### SCHEDULER FOUND :6
+################ TURN ON DEVICE :SUN
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-11 00:45:04.356839
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 22.2
+Moisture: 32
+Light: 6641
+Conductivity: 842
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 22.2 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 6641 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 842 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 22.2 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### SUN IS GOOD FOR 6641 vs Best Practices min: 3600 max: 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 842 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 00:45:09.663916
+####################### 
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:2
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### NO TASK EXISTS YET SCENARIO WATER EXIST FOR DAY 0 START_HOUR 0 START_MINUTE 0 END_HOUR 0 END_MINUTE 0
+###### UPDATE THE RUN TIME FOR WATER arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-11 00:45:09.668705
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 0
+######### SCHEDULER FOUND :-1
+################ TURN OFF DEVICE :WATER
+                        
+                        
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 00:45:09.873832
+####################### 
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 0 tsStopHour8
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:10
+###### ACTIVITY CONSTRAINT RUN MAX_MINUTE_PER_HOUR_ON:20
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 0 tsStopHour8
+###### NO TASK EXISTS YET SCENARIO AIR EXIST FOR DAY 0 START_HOUR 0 START_MINUTE 0 END_HOUR 0 END_MINUTE 0
+###### UPDATE THE RUN TIME FOR AIR arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-11 00:45:09.875567
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 1
+######### SCHEDULER FOUND :-1
+################ TURN OFF DEVICE :AIR
+                        
+                        
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 00:45:10.061245
+####################### 
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 18 tsStopHour21
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:19
+###### NO CONSTRAINT STILL MORE SUN
+###### NOTHING TO DO ACTIVE ACTIVITY SUN EXIST FOR DAY 2023-03-11 START_HOUR 0 START_MINUTE 14 END_HOUR None END_MINUTE None
+###### UPDATE THE RUN TIME FOR SUN arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING SUN CHECK at 2023-03-11 00:45:10.063117
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 2
+######### SCHEDULER FOUND :6
+################ TURN ON DEVICE :SUN
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-11 00:50:04.814930
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 22.1
+Moisture: 32
+Light: 9450
+Conductivity: 843
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 22.1 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 9450 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 843 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 22.1 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### SUN IS GOOD FOR 9450 vs Best Practices min: 3600 max: 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 843 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 00:50:08.579173
+####################### 
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:2
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### NO TASK EXISTS YET SCENARIO WATER EXIST FOR DAY 0 START_HOUR 0 START_MINUTE 0 END_HOUR 0 END_MINUTE 0
+###### UPDATE THE RUN TIME FOR WATER arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-11 00:50:08.584360
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 0
+######### SCHEDULER FOUND :-1
+################ TURN OFF DEVICE :WATER
+                        
+                        
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 00:50:08.837202
+####################### 
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 0 tsStopHour8
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:10
+###### ACTIVITY CONSTRAINT RUN MAX_MINUTE_PER_HOUR_ON:20
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 0 tsStopHour8
+###### NO TASK EXISTS YET SCENARIO AIR EXIST FOR DAY 0 START_HOUR 0 START_MINUTE 0 END_HOUR 0 END_MINUTE 0
+###### UPDATE THE RUN TIME FOR AIR arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-11 00:50:08.839008
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 1
+######### SCHEDULER FOUND :-1
+################ TURN OFF DEVICE :AIR
+                        
+                        
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 00:50:09.124242
+####################### 
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 18 tsStopHour21
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:19
+###### NO CONSTRAINT STILL MORE SUN
+###### NOTHING TO DO ACTIVE ACTIVITY SUN EXIST FOR DAY 2023-03-11 START_HOUR 0 START_MINUTE 14 END_HOUR None END_MINUTE None
+###### UPDATE THE RUN TIME FOR SUN arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING SUN CHECK at 2023-03-11 00:50:09.126110
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 2
+######### SCHEDULER FOUND :6
+################ TURN ON DEVICE :SUN
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-11 00:55:04.887954
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 22.1
+Moisture: 32
+Light: 7364
+Conductivity: 843
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 22.1 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 7364 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 843 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 22.1 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### SUN IS GOOD FOR 7364 vs Best Practices min: 3600 max: 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 843 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 00:55:07.548723
+####################### 
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:2
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### NO TASK EXISTS YET SCENARIO WATER EXIST FOR DAY 0 START_HOUR 0 START_MINUTE 0 END_HOUR 0 END_MINUTE 0
+###### UPDATE THE RUN TIME FOR WATER arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-11 00:55:07.553701
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 0
+######### SCHEDULER FOUND :-1
+################ TURN OFF DEVICE :WATER
+                        
+                        
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 00:55:07.857150
+####################### 
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 0 tsStopHour8
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:10
+###### ACTIVITY CONSTRAINT RUN MAX_MINUTE_PER_HOUR_ON:20
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 0 tsStopHour8
+###### NO TASK EXISTS YET SCENARIO AIR EXIST FOR DAY 0 START_HOUR 0 START_MINUTE 0 END_HOUR 0 END_MINUTE 0
+###### UPDATE THE RUN TIME FOR AIR arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-11 00:55:07.858893
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 1
+######### SCHEDULER FOUND :-1
+################ TURN OFF DEVICE :AIR
+                        
+                        
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 00:55:08.123775
+####################### 
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 18 tsStopHour21
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:19
+###### NO CONSTRAINT STILL MORE SUN
+###### NOTHING TO DO ACTIVE ACTIVITY SUN EXIST FOR DAY 2023-03-11 START_HOUR 0 START_MINUTE 14 END_HOUR None END_MINUTE None
+###### UPDATE THE RUN TIME FOR SUN arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING SUN CHECK at 2023-03-11 00:55:08.125566
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 2
+######### SCHEDULER FOUND :6
+################ TURN ON DEVICE :SUN
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-11 01:00:04.917305
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 22.1
+Moisture: 32
+Light: 11119
+Conductivity: 843
+###### INSERTING THE METRIC TRACKER name: Temperature value 22.1 unit: CELCIUS
+###### INSERTING THE METRIC TRACKER name: Soil-Moisture value 32 unit: %
+###### INSERTING THE METRIC TRACKER name: Sun value 11119 unit: LUX
+###### INSERTING THE METRIC TRACKER name: Soil-Fertility value 843 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 22.1 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### SUN IS GOOD FOR 11119 vs Best Practices min: 3600 max: 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 843 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 01:00:09.100559
+####################### 
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:2
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### NO TASK EXISTS YET SCENARIO WATER EXIST FOR DAY 0 START_HOUR 0 START_MINUTE 0 END_HOUR 0 END_MINUTE 0
+###### UPDATE THE RUN TIME FOR WATER arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-11 01:00:09.104035
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 0
+######### SCHEDULER FOUND :-1
+################ TURN OFF DEVICE :WATER
+                        
+                        
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 01:00:09.285596
+####################### 
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 0 tsStopHour8
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:10
+###### ACTIVITY CONSTRAINT RUN MAX_MINUTE_PER_HOUR_ON:20
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 0 tsStopHour8
+###### NO TASK EXISTS YET SCENARIO AIR EXIST FOR DAY 0 START_HOUR 0 START_MINUTE 0 END_HOUR 0 END_MINUTE 0
+###### UPDATE THE RUN TIME FOR AIR arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-11 01:00:09.287557
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 1
+######### SCHEDULER FOUND :-1
+################ TURN OFF DEVICE :AIR
+                        
+                        
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 01:00:09.344059
+####################### 
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 18 tsStopHour21
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:19
+###### NO CONSTRAINT STILL MORE SUN
+###### NOTHING TO DO ACTIVE ACTIVITY SUN EXIST FOR DAY 2023-03-11 START_HOUR 0 START_MINUTE 14 END_HOUR None END_MINUTE None
+###### UPDATE THE RUN TIME FOR SUN arTotalHourON: 1 arTotalMinuteON: 60 arTotalHourOFF: 23 arTotalMinuteOFF: 3540 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING SUN CHECK at 2023-03-11 01:00:09.346180
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 2
+######### SCHEDULER FOUND :6
+################ TURN ON DEVICE :SUN
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-11 01:05:05.976117
+####################### 
+##########################
+### RECOMMENDATION FAILED
+### with issue  database is locked
+##########################
+                          
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 01:05:10.994731
+####################### 
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:2
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### NO TASK EXISTS YET SCENARIO WATER EXIST FOR DAY 0 START_HOUR 0 START_MINUTE 0 END_HOUR 0 END_MINUTE 0
+###### UPDATE THE RUN TIME FOR WATER arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+##########################
+### MAINTAIN SCHEDULE FAILED
+### with issue  database is locked
+##########################
+                          
+####################### 
+## STARTING RECOMMENDATION 2023-03-11 01:10:05.452613
+####################### 
+##########################
+### RECOMMENDATION FAILED
+### with issue  database is locked
+##########################
+                          
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 01:10:10.471666
+####################### 
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:2
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### NO TASK EXISTS YET SCENARIO WATER EXIST FOR DAY 0 START_HOUR 0 START_MINUTE 0 END_HOUR 0 END_MINUTE 0
+###### UPDATE THE RUN TIME FOR WATER arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+##########################
+### MAINTAIN SCHEDULE FAILED
+### with issue  database is locked
+##########################
+                          
+####################### 
+## STARTING RECOMMENDATION 2023-03-11 01:15:04.417319
+####################### 
+##########################
+### RECOMMENDATION FAILED
+### with issue  database is locked
+##########################
+                          
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 01:15:09.435094
+####################### 
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:2
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### NO TASK EXISTS YET SCENARIO WATER EXIST FOR DAY 0 START_HOUR 0 START_MINUTE 0 END_HOUR 0 END_MINUTE 0
+###### UPDATE THE RUN TIME FOR WATER arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+##########################
+### MAINTAIN SCHEDULE FAILED
+### with issue  database is locked
+##########################
+                          
+####################### 
+## STARTING RECOMMENDATION 2023-03-11 01:20:04.543898
+####################### 
+##########################
+### RECOMMENDATION FAILED
+### with issue  database is locked
+##########################
+                          
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 01:20:09.559863
+####################### 
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:2
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### NO TASK EXISTS YET SCENARIO WATER EXIST FOR DAY 0 START_HOUR 0 START_MINUTE 0 END_HOUR 0 END_MINUTE 0
+###### UPDATE THE RUN TIME FOR WATER arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+##########################
+### MAINTAIN SCHEDULE FAILED
+### with issue  database is locked
+##########################
+                          
+####################### 
+## STARTING RECOMMENDATION 2023-03-11 01:25:05.123296
+####################### 
+##########################
+### RECOMMENDATION FAILED
+### with issue  
+##########################
+                          
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 01:25:12.021691
+####################### 
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:2
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### NO TASK EXISTS YET SCENARIO WATER EXIST FOR DAY 0 START_HOUR 0 START_MINUTE 0 END_HOUR 0 END_MINUTE 0
+###### UPDATE THE RUN TIME FOR WATER arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-11 01:25:12.026635
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 0
+######### SCHEDULER FOUND :-1
+################ TURN OFF DEVICE :WATER
+                        
+                        
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 01:25:12.129059
+####################### 
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 0 tsStopHour8
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:10
+###### ACTIVITY CONSTRAINT RUN MAX_MINUTE_PER_HOUR_ON:20
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 0 tsStopHour8
+###### NO TASK EXISTS YET SCENARIO AIR EXIST FOR DAY 0 START_HOUR 0 START_MINUTE 0 END_HOUR 0 END_MINUTE 0
+###### UPDATE THE RUN TIME FOR AIR arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-11 01:25:12.131282
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 1
+######### SCHEDULER FOUND :-1
+################ TURN OFF DEVICE :AIR
+                        
+                        
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 01:25:12.405259
+####################### 
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 18 tsStopHour21
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:19
+###### NO CONSTRAINT STILL MORE SUN
+###### NOTHING TO DO ACTIVE ACTIVITY SUN EXIST FOR DAY 2023-03-11 START_HOUR 0 START_MINUTE 14 END_HOUR None END_MINUTE None
+###### UPDATE THE RUN TIME FOR SUN arTotalHourON: 1 arTotalMinuteON: 60 arTotalHourOFF: 23 arTotalMinuteOFF: 3540 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING SUN CHECK at 2023-03-11 01:25:12.407731
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 2
+######### SCHEDULER FOUND :6
+################ TURN ON DEVICE :SUN
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-11 01:30:05.137780
+####################### 
+##########################
+### RECOMMENDATION FAILED
+### with issue  
+##########################
+                          
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 01:30:13.032956
+####################### 
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:2
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### NO TASK EXISTS YET SCENARIO WATER EXIST FOR DAY 0 START_HOUR 0 START_MINUTE 0 END_HOUR 0 END_MINUTE 0
+###### UPDATE THE RUN TIME FOR WATER arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-11 01:30:13.037982
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 0
+######### SCHEDULER FOUND :-1
+################ TURN OFF DEVICE :WATER
+                        
+                        
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 01:30:13.817710
+####################### 
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 0 tsStopHour8
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:10
+###### ACTIVITY CONSTRAINT RUN MAX_MINUTE_PER_HOUR_ON:20
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 0 tsStopHour8
+###### NO TASK EXISTS YET SCENARIO AIR EXIST FOR DAY 0 START_HOUR 0 START_MINUTE 0 END_HOUR 0 END_MINUTE 0
+###### UPDATE THE RUN TIME FOR AIR arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-11 01:30:13.819459
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 1
+######### SCHEDULER FOUND :-1
+################ TURN OFF DEVICE :AIR
+                        
+                        
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 01:30:14.065836
+####################### 
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 18 tsStopHour21
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:19
+###### NO CONSTRAINT STILL MORE SUN
+###### NOTHING TO DO ACTIVE ACTIVITY SUN EXIST FOR DAY 2023-03-11 START_HOUR 0 START_MINUTE 14 END_HOUR None END_MINUTE None
+###### UPDATE THE RUN TIME FOR SUN arTotalHourON: 1 arTotalMinuteON: 60 arTotalHourOFF: 23 arTotalMinuteOFF: 3540 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING SUN CHECK at 2023-03-11 01:30:14.067891
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 2
+######### SCHEDULER FOUND :6
+################ TURN ON DEVICE :SUN
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-11 01:35:04.989117
+####################### 
+##########################
+### RECOMMENDATION FAILED
+### with issue  database is locked
+##########################
+                          
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 01:35:10.003673
+####################### 
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:2
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### NO TASK EXISTS YET SCENARIO WATER EXIST FOR DAY 0 START_HOUR 0 START_MINUTE 0 END_HOUR 0 END_MINUTE 0
+###### UPDATE THE RUN TIME FOR WATER arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+##########################
+### MAINTAIN SCHEDULE FAILED
+### with issue  database is locked
+##########################
+                          
+####################### 
+## STARTING RECOMMENDATION 2023-03-11 01:42:04.030625
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 21.8
+Moisture: 32
+Light: 5879
+Conductivity: 844
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 21.8 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 5879 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 844 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 21.8 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### SUN IS GOOD FOR 5879 vs Best Practices min: 3600 max: 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 844 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 01:42:09.015371
+####################### 
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:2
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### NO TASK EXISTS YET SCENARIO WATER EXIST FOR DAY 0 START_HOUR 0 START_MINUTE 0 END_HOUR 0 END_MINUTE 0
+###### UPDATE THE RUN TIME FOR WATER arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-11 01:42:09.019516
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 0
+######### SCHEDULER FOUND :-1
+################ TURN OFF DEVICE :WATER
+                        
+                        
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 01:42:09.206705
+####################### 
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 0 tsStopHour8
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:10
+###### ACTIVITY CONSTRAINT RUN MAX_MINUTE_PER_HOUR_ON:20
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 0 tsStopHour8
+###### NO TASK EXISTS YET SCENARIO AIR EXIST FOR DAY 0 START_HOUR 0 START_MINUTE 0 END_HOUR 0 END_MINUTE 0
+###### UPDATE THE RUN TIME FOR AIR arTotalHourON: 0 arTotalMinuteON: 0 arTotalHourOFF: 24 arTotalMinuteOFF: 3600 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-11 01:42:09.208509
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 1
+######### SCHEDULER FOUND :-1
+################ TURN OFF DEVICE :AIR
+                        
+                        
+####################### 
+## STARTING MAINTENANCE WEEDLE SCHEDULER at 2023-03-11 01:42:09.460104
+####################### 
+###### ACTIVITY CONSTRAINT TIME_SAVING tsStartHour: 18 tsStopHour21
+###### ACTIVITY CONSTRAINT RUN MAX_HOUR_PER_DAY_ON:19
+###### NO CONSTRAINT STILL MORE SUN
+###### NOTHING TO DO ACTIVE ACTIVITY SUN EXIST FOR DAY 2023-03-11 START_HOUR 0 START_MINUTE 14 END_HOUR None END_MINUTE None
+###### UPDATE THE RUN TIME FOR SUN arTotalHourON: 1 arTotalMinuteON: 60 arTotalHourOFF: 23 arTotalMinuteOFF: 3540 arTotalHourONOFF 24 arTotalMinuteONOFF 3600
+                        
+                        
+####################### 
+## STARTING SUN CHECK at 2023-03-11 01:42:09.461928
+####################### 
+######### IPADDRESS :172.27.0.69 Index Device: 2
+######### SCHEDULER FOUND :6
+################ TURN ON DEVICE :SUN
+                        
+                        

@@ -102,7 +102,3 @@ pip install bleparser
 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
 
 
-CREATE VIEW weedle_gantt AS
-SELECT activity task_name, day||' '||start_hour||':00:00' start_time, day||' '||end_hour||':00:00' end_time
-FROM w_weedle_scheduler;
-

@@ -281,12 +281,12 @@ def maintainWeedleSchedule(conn, plantSize,activity):
         conn.execute("UPDATE W_ACTIVITY_RUNTIME SET   TOTAL_HOUR_ON=?, TOTAL_MINUTE_ON=?, TOTAL_HOUR_OFF=?, TOTAL_MINUTE_OFF=?, TOTAL_HOUR_ONOFF=? , TOTAL_MINUTE_ONOFF=? WHERE W_AR_ID=?" ,
                  (arTotalHourON, arTotalMinuteON, arTotalHourOFF, arTotalMinuteOFF, arTotalHourONOFF, arTotalMinuteONOFF, w_ar_id))
                  
-    # Commit the changes
-    #conn.commit()
-    
-    # Close the connection
-    #conn.close()
-              
+    ###########################
+    # UPDATE ACTIVITY RUNTIME  
+    ###########################
+    ## Close previous day segment
+    cursor = conn.execute("UPDATE W_WEEDLE_SCHEDULER SET STATE=?, END_HOUR=? WHERE END_HOUR IS NULL and DAY !=?",
+                         ('INACTIVE',24,str(currentDay)))
     print('                        ')
     print('                        ')
     

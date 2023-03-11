@@ -30,7 +30,7 @@ def createSchedulerGanttGraph():
     cur = conn.cursor()
 
     # Execute the SELECT statement to retrieve tasks data from a table named 'tasks_table'
-    cur.execute("SELECT task_name, start_time, end_time from weedle_gantt ")
+    cur.execute("SELECT task_name, start_time, end_time from weedle_gantt")
 
     tasks = cur.fetchall()[::-1]
 

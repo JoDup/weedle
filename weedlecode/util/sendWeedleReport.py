@@ -4,13 +4,14 @@ from email.mime.image import MIMEImage
 
 from reportGenerator.deviceMetricTrackerGraph import createDeviceMetricTrackerGraph
 from reportGenerator.weedleSchedulerGanttGraph import createSchedulerGanttGraph
+from reportGenerator.weedleRecommendationMsg import weedleRecommendation
 
 import os.path
 import smtplib
 
 from datetime import date
 
-def sendMail():
+def sendMail(message):
 	
     currentDay = date.today()    
     # Set up the email
@@ -18,7 +19,14 @@ def sendMail():
 
     msg['From'] = 'climate@gmail.com'
     msg['To'] = 'joel.dupont@gmail.com'
-    msg['Subject'] = 'Weedle Capture'
+    msg['Subject'] = 'Weedle News! '+str(currentDay)
+    
+    #msg.attach(MIMEText(message))
+    # Create MIMEText object with HTML content
+    html = MIMEText(message, 'html')
+
+    # Attach the HTML to the message
+    msg.attach(html)
 
     # Define the file paths of the images
     file_paths = ['/home/weedle/weedlecode/weedleReport/weedleScheduler'+str(currentDay)+'.png',
@@ -44,6 +52,7 @@ def sendMail():
 ## MAIN CALL
 if __name__ == '__main__':
     try:
+       currentDay = date.today()  
        print('##########################')
        print('### GENERATE WEEDLE REPORT ')
        print('##########################')
@@ -56,7 +65,7 @@ if __name__ == '__main__':
        createDeviceMetricTrackerGraph('Soil-Moisture','%')
        print('##########CREATE SOIL FERTILITY GRAPH')
        createDeviceMetricTrackerGraph('Soil-Fertility','upS/cm')
-       print('########## CREATE SUN GRAPH')
+       print('##########CREATE SUN GRAPH')
        createDeviceMetricTrackerGraph('Sun','lux')
        print('##########################')
        print('                          ')
@@ -69,7 +78,17 @@ if __name__ == '__main__':
        print('######WEEDLE SEND REPORT')
        print('                          ')
        print('##########################')
-       sendMail()
+       html_content = """
+       <html>
+       <head></head>
+       <body>
+        <h1>Hello! Weedle has some reports: </h1>
+       """ 
+       html_content+=weedleRecommendation()
+       html_content += """</body>
+                          </html>
+                       """
+       sendMail(html_content)
        
 
     except Exception as e: 
