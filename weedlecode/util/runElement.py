@@ -134,7 +134,7 @@ def runElement(plantSize, Eelement, Eindex):
     # RECOMMENDATION 
     ###########################
     #Get Weedle Recommendations
-    cursor = conn.execute("SELECT * FROM W_RECOMMENDATION WHERE ELEMENT=? AND (STATE=? OR STATE=?) AND DAY=? AND HOUR=? order by PRIORITY",
+    cursor = conn.execute("SELECT * FROM W_WEEDLE_RECOMMENDATION WHERE ELEMENT=? AND (STATE=? OR STATE=?) AND DAY=? AND HOUR=? order by PRIORITY",
                          (Eelement,'NEW','ACTIVE',str(currentTime.strftime("%Y-%m-%d")),currentHour))
     recId=-1
     recCheckName='NONE'
@@ -176,7 +176,7 @@ def runElement(plantSize, Eelement, Eindex):
            turnOn=False
         #Now Update the recommendatino to DONE
         if recId!=-1:
-          cursor = conn.execute("UPDATE W_RECOMMENDATION SET STATE=? WHERE W_R_ID=?",
+          cursor = conn.execute("UPDATE W_WEEDLE_RECOMMENDATION SET STATE=? WHERE W_R_ID=?",
                                ('ACTIVE',recId))
            
     # P2: check Time Saving OFF CONSTRAINT		
@@ -208,7 +208,7 @@ def runElement(plantSize, Eelement, Eindex):
            turnOn=False
         #Now Update the recommendatino to DONE
         if recId!=-1:
-          cursor = conn.execute("UPDATE W_RECOMMENDATION SET STATE=? WHERE W_R_ID=?",
+          cursor = conn.execute("UPDATE W_WEEDLE_RECOMMENDATION SET STATE=? WHERE W_R_ID=?",
                                ('ACTIVE',recId))
     
     else:
@@ -217,7 +217,7 @@ def runElement(plantSize, Eelement, Eindex):
         #Now Update the recommendatino to DONE
 
     if recId!=-1:
-       cursor = conn.execute("UPDATE W_RECOMMENDATION SET STATE=? WHERE W_R_ID=? and STATE <> 'ACTIVE'",
+       cursor = conn.execute("UPDATE W_WEEDLE_RECOMMENDATION SET STATE=? WHERE W_R_ID=? and STATE <> 'ACTIVE'",
                             ('INACTIVE',recId))
     
     if turnOn:

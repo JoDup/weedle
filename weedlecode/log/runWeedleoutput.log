@@ -11677,3 +11677,3544 @@ Conductivity: 872
 ###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 16 LastHourCheck: 16 LastMinuteCheck 20
                         
                         
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 16:25:03.908592
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 20.7
+Moisture: 32
+Light: 269
+Conductivity: 878
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 20.7 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 269 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 878 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 20.7 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 269 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 878 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 16:25:06.427741
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 3 LastHourCheck: 16 LastMinuteCheck 25
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 16:25:06.908750
+####################### 
+###### SET RUN TIME 0
+###### SET RUN TIME MINUTE 280 DEBUG runTimeMinute: 275 diffMinute: 5 currentHour: 16
+###### ONE TIME RUN MIN:30
+###### ELSE STILL MORE AIR
+###### UPDATE THE RUN TIME FOR AIR True RunTime: 0 RunTimeMinute: 280 OffTime: 16 LastHourCheck: 16 LastMinuteCheck 25
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 16:25:07.420864
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 16 LastHourCheck: 16 LastMinuteCheck 25
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 16:30:04.268027
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 20.8
+Moisture: 32
+Light: 71
+Conductivity: 867
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 20.8 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 71 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 867 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 20.8 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 71 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 867 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 16:30:06.414420
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 3 LastHourCheck: 16 LastMinuteCheck 30
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 16:30:07.133866
+####################### 
+###### SET RUN TIME 0
+###### SET RUN TIME MINUTE 285 DEBUG runTimeMinute: 280 diffMinute: 5 currentHour: 16
+###### ONE TIME RUN MIN:30
+###### CONTRAINT MAX ONE MINUTE RUN: TURN OFF AIR
+###### UPDATE THE RUN TIME FOR AIR False RunTime: 0 RunTimeMinute: 285 OffTime: 16 LastHourCheck: 16 LastMinuteCheck 30
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 16:30:07.645737
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 16 LastHourCheck: 16 LastMinuteCheck 30
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 16:35:04.062891
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 20.5
+Moisture: 32
+Light: 71
+Conductivity: 871
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 20.5 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 71 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 871 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 20.5 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 71 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 871 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 16:35:06.473510
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 3 LastHourCheck: 16 LastMinuteCheck 35
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 16:35:06.948226
+####################### 
+###### ONE TIME RUN MIN:30
+###### CONTRAINT MAX ONE MINUTE RUN: TURN OFF AIR
+###### UPDATE THE RUN TIME FOR AIR False RunTime: 0 RunTimeMinute: 285 OffTime: 16 LastHourCheck: 16 LastMinuteCheck 35
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 16:35:07.633312
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 16 LastHourCheck: 16 LastMinuteCheck 35
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 16:40:04.143756
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 20.3
+Moisture: 32
+Light: 174
+Conductivity: 874
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 20.3 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 174 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 874 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 20.3 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 174 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 874 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 16:40:08.611243
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 3 LastHourCheck: 16 LastMinuteCheck 40
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 16:40:09.181007
+####################### 
+###### ONE TIME RUN MIN:30
+###### CONTRAINT MAX ONE MINUTE RUN: TURN OFF AIR
+###### UPDATE THE RUN TIME FOR AIR False RunTime: 0 RunTimeMinute: 285 OffTime: 16 LastHourCheck: 16 LastMinuteCheck 40
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 16:40:09.607974
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 16 LastHourCheck: 16 LastMinuteCheck 40
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 16:45:04.228019
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 20.2
+Moisture: 32
+Light: 23
+Conductivity: 871
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 20.2 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 23 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 871 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 20.2 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 23 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 871 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 16:45:08.473704
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 3 LastHourCheck: 16 LastMinuteCheck 45
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 16:45:08.932391
+####################### 
+###### ONE TIME RUN MIN:30
+###### CONTRAINT MAX ONE MINUTE RUN: TURN OFF AIR
+###### UPDATE THE RUN TIME FOR AIR False RunTime: 0 RunTimeMinute: 285 OffTime: 16 LastHourCheck: 16 LastMinuteCheck 45
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 16:45:09.488166
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 16 LastHourCheck: 16 LastMinuteCheck 45
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 16:50:04.212588
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 20.1
+Moisture: 32
+Light: 44
+Conductivity: 873
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 20.1 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 44 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 873 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 20.1 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 44 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 873 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 16:50:08.440530
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 3 LastHourCheck: 16 LastMinuteCheck 50
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 16:50:08.954864
+####################### 
+###### ONE TIME RUN MIN:30
+###### CONTRAINT MAX ONE MINUTE RUN: TURN OFF AIR
+###### UPDATE THE RUN TIME FOR AIR False RunTime: 0 RunTimeMinute: 285 OffTime: 16 LastHourCheck: 16 LastMinuteCheck 50
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 16:50:09.508633
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 16 LastHourCheck: 16 LastMinuteCheck 50
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 16:55:04.150892
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 20.1
+Moisture: 32
+Light: 230
+Conductivity: 877
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 20.1 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 230 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 877 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 20.1 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 230 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 877 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 16:55:09.518286
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 3 LastHourCheck: 16 LastMinuteCheck 55
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 16:55:10.154020
+####################### 
+###### ONE TIME RUN MIN:30
+###### CONTRAINT MAX ONE MINUTE RUN: TURN OFF AIR
+###### UPDATE THE RUN TIME FOR AIR False RunTime: 0 RunTimeMinute: 285 OffTime: 16 LastHourCheck: 16 LastMinuteCheck 55
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 16:55:10.656795
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 16 LastHourCheck: 16 LastMinuteCheck 55
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 17:00:04.356079
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 20.4
+Moisture: 32
+Light: 48
+Conductivity: 864
+###### INSERTING THE METRIC TRACKER name: Temperature value 20.4 unit: CELCIUS
+###### INSERTING THE METRIC TRACKER name: Soil-Moisture value 32 unit: %
+###### INSERTING THE METRIC TRACKER name: Sun value 48 unit: LUX
+###### INSERTING THE METRIC TRACKER name: Soil-Fertility value 864 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 20.4 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### INSERTING THE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 48 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 864 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 17:00:09.440881
+####################### 
+###### SET OFFTIME TIME 3
+###### RECOMMENDATION: Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 48 LUX vs Best Practices 3600 LUX
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 4 LastHourCheck: 17 LastMinuteCheck 0
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 17:00:10.124164
+####################### 
+###### SET OFFTIME TIME 16
+###### ONE TIME RUN MIN:30
+###### ELSE STILL MORE AIR
+###### UPDATE THE RUN TIME FOR AIR True RunTime: 0 RunTimeMinute: 285 OffTime: 17 LastHourCheck: 17 LastMinuteCheck 0
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 17:00:11.508278
+####################### 
+###### SET OFFTIME TIME 16
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 17 LastHourCheck: 17 LastMinuteCheck 0
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 17:05:04.282315
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 21.0
+Moisture: 33
+Light: 71
+Conductivity: 855
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 21.0 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 33 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 71 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 855 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 21.0 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 33 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 71 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 855 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 17:05:10.429919
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 4 LastHourCheck: 17 LastMinuteCheck 5
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 17:05:12.013032
+####################### 
+###### SET RUN TIME 0
+###### SET RUN TIME MINUTE 290 DEBUG runTimeMinute: 285 diffMinute: 5 currentHour: 17
+###### ONE TIME RUN MIN:30
+###### ELSE STILL MORE AIR
+###### UPDATE THE RUN TIME FOR AIR True RunTime: 0 RunTimeMinute: 290 OffTime: 17 LastHourCheck: 17 LastMinuteCheck 5
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 17:05:12.457083
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 17 LastHourCheck: 17 LastMinuteCheck 5
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 17:10:04.367159
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 21.7
+Moisture: 32
+Light: 269
+Conductivity: 849
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 21.7 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 269 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 849 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 21.7 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 269 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 849 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 17:10:06.369102
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 4 LastHourCheck: 17 LastMinuteCheck 10
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 17:10:06.802844
+####################### 
+###### SET RUN TIME 0
+###### SET RUN TIME MINUTE 295 DEBUG runTimeMinute: 290 diffMinute: 5 currentHour: 17
+###### ONE TIME RUN MIN:30
+###### ELSE STILL MORE AIR
+###### UPDATE THE RUN TIME FOR AIR True RunTime: 0 RunTimeMinute: 295 OffTime: 17 LastHourCheck: 17 LastMinuteCheck 10
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 17:10:07.294652
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 17 LastHourCheck: 17 LastMinuteCheck 10
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 17:15:04.031323
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 22.3
+Moisture: 32
+Light: 71
+Conductivity: 836
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 22.3 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 71 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 836 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 22.3 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 71 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 836 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 17:15:10.456189
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 4 LastHourCheck: 17 LastMinuteCheck 15
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 17:15:10.980299
+####################### 
+###### SET RUN TIME 0
+###### SET RUN TIME MINUTE 300 DEBUG runTimeMinute: 295 diffMinute: 5 currentHour: 17
+###### ONE TIME RUN MIN:30
+###### ELSE STILL MORE AIR
+###### UPDATE THE RUN TIME FOR AIR True RunTime: 0 RunTimeMinute: 300 OffTime: 17 LastHourCheck: 17 LastMinuteCheck 15
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 17:15:11.380833
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 17 LastHourCheck: 17 LastMinuteCheck 15
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 17:20:04.254684
+####################### 
+##########################
+### RECOMMENDATION FAILED
+### with issue  database is locked
+##########################
+                          
+                          
+####################### 
+## STARTING SUN CHECK at 2023-03-10 17:20:09.273795
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 4 LastHourCheck: 17 LastMinuteCheck 20
+Traceback (most recent call last):
+  File "/home/weedle/weedlecode/main.py", line 33, in <module>
+    runAllElement()
+  File "/home/weedle/weedlecode/main.py", line 18, in runAllElement
+    runElement(plantSize,'SUN',sun)
+  File "/home/weedle/weedlecode/util/runElement.py", line 232, in runElement
+    conn.execute("UPDATE W_ELEMENT_RUNTIME SET STATE=?, RUN_TIME=?, RUN_TIME_MINUTE=?, OFF_TIME=?, LAST_MINUTE_CHECK=?, LAST_HOUR_CHECK=? WHERE AR_ID=?" ,
+sqlite3.OperationalError: database is locked
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 17:25:05.047264
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 22.9
+Moisture: 32
+Light: 48
+Conductivity: 828
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 22.9 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 48 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 828 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 22.9 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 48 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 828 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 17:25:08.448535
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 4 LastHourCheck: 17 LastMinuteCheck 25
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 17:25:09.003833
+####################### 
+###### SET RUN TIME 0
+###### SET RUN TIME MINUTE 310 DEBUG runTimeMinute: 300 diffMinute: 10 currentHour: 17
+###### ONE TIME RUN MIN:30
+###### ELSE STILL MORE AIR
+###### UPDATE THE RUN TIME FOR AIR True RunTime: 0 RunTimeMinute: 310 OffTime: 17 LastHourCheck: 17 LastMinuteCheck 25
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 17:25:09.548595
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 17 LastHourCheck: 17 LastMinuteCheck 25
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 17:30:04.486768
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 23.2
+Moisture: 32
+Light: 299
+Conductivity: 819
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 23.2 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 299 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 819 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 23.2 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 299 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 819 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 17:30:07.418498
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 4 LastHourCheck: 17 LastMinuteCheck 30
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 17:30:07.924816
+####################### 
+###### SET RUN TIME 0
+###### SET RUN TIME MINUTE 315 DEBUG runTimeMinute: 310 diffMinute: 5 currentHour: 17
+###### ONE TIME RUN MIN:30
+###### CONTRAINT MAX ONE MINUTE RUN: TURN OFF AIR
+###### UPDATE THE RUN TIME FOR AIR False RunTime: 0 RunTimeMinute: 315 OffTime: 17 LastHourCheck: 17 LastMinuteCheck 30
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 17:30:08.446796
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 17 LastHourCheck: 17 LastMinuteCheck 30
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 17:35:04.328133
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 22.9
+Moisture: 32
+Light: 48
+Conductivity: 823
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 22.9 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 48 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 823 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 22.9 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 48 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 823 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 17:35:08.434644
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 4 LastHourCheck: 17 LastMinuteCheck 35
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 17:35:08.930414
+####################### 
+###### ONE TIME RUN MIN:30
+###### CONTRAINT MAX ONE MINUTE RUN: TURN OFF AIR
+###### UPDATE THE RUN TIME FOR AIR False RunTime: 0 RunTimeMinute: 315 OffTime: 17 LastHourCheck: 17 LastMinuteCheck 35
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 17:35:09.446810
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 17 LastHourCheck: 17 LastMinuteCheck 35
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 17:40:04.104864
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 22.7
+Moisture: 32
+Light: 48
+Conductivity: 831
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 22.7 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 48 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 831 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 22.7 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 48 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 831 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 17:40:08.448868
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 4 LastHourCheck: 17 LastMinuteCheck 40
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 17:40:08.971609
+####################### 
+###### ONE TIME RUN MIN:30
+###### CONTRAINT MAX ONE MINUTE RUN: TURN OFF AIR
+###### UPDATE THE RUN TIME FOR AIR False RunTime: 0 RunTimeMinute: 315 OffTime: 17 LastHourCheck: 17 LastMinuteCheck 40
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 17:40:09.432197
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 17 LastHourCheck: 17 LastMinuteCheck 40
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 17:45:04.209918
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 22.3
+Moisture: 32
+Light: 227
+Conductivity: 836
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 22.3 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 227 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 836 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 22.3 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 227 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 836 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 17:45:07.387405
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 4 LastHourCheck: 17 LastMinuteCheck 45
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 17:45:07.830784
+####################### 
+###### ONE TIME RUN MIN:30
+###### CONTRAINT MAX ONE MINUTE RUN: TURN OFF AIR
+###### UPDATE THE RUN TIME FOR AIR False RunTime: 0 RunTimeMinute: 315 OffTime: 17 LastHourCheck: 17 LastMinuteCheck 45
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 17:45:08.253800
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 17 LastHourCheck: 17 LastMinuteCheck 45
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 17:50:04.334975
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 22.1
+Moisture: 32
+Light: 48
+Conductivity: 839
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 22.1 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 48 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 839 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 22.1 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 48 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 839 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 17:50:07.414966
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 4 LastHourCheck: 17 LastMinuteCheck 50
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 17:50:07.928251
+####################### 
+###### ONE TIME RUN MIN:30
+###### CONTRAINT MAX ONE MINUTE RUN: TURN OFF AIR
+###### UPDATE THE RUN TIME FOR AIR False RunTime: 0 RunTimeMinute: 315 OffTime: 17 LastHourCheck: 17 LastMinuteCheck 50
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 17:50:08.429468
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 17 LastHourCheck: 17 LastMinuteCheck 50
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 17:55:03.130036
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 21.8
+Moisture: 32
+Light: 48
+Conductivity: 844
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 21.8 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 48 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 844 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 21.8 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 48 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 844 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 17:55:07.407065
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 4 LastHourCheck: 17 LastMinuteCheck 55
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 17:55:07.872965
+####################### 
+###### ONE TIME RUN MIN:30
+###### CONTRAINT MAX ONE MINUTE RUN: TURN OFF AIR
+###### UPDATE THE RUN TIME FOR AIR False RunTime: 0 RunTimeMinute: 315 OffTime: 17 LastHourCheck: 17 LastMinuteCheck 55
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 17:55:08.275865
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 17 LastHourCheck: 17 LastMinuteCheck 55
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 18:00:04.385383
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 21.6
+Moisture: 32
+Light: 269
+Conductivity: 855
+###### INSERTING THE METRIC TRACKER name: Temperature value 21.6 unit: CELCIUS
+###### INSERTING THE METRIC TRACKER name: Soil-Moisture value 32 unit: %
+###### INSERTING THE METRIC TRACKER name: Sun value 269 unit: LUX
+###### INSERTING THE METRIC TRACKER name: Soil-Fertility value 855 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 21.6 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### INSERTING THE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 269 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 855 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 18:00:08.401213
+####################### 
+###### SET OFFTIME TIME 4
+###### RECOMMENDATION: Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 269 LUX vs Best Practices 3600 LUX
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 5 LastHourCheck: 18 LastMinuteCheck 0
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 18:00:09.082352
+####################### 
+###### SET OFFTIME TIME 17
+###### ONE TIME RUN MIN:30
+###### ELSE STILL MORE AIR
+###### UPDATE THE RUN TIME FOR AIR True RunTime: 0 RunTimeMinute: 315 OffTime: 18 LastHourCheck: 18 LastMinuteCheck 0
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 18:00:09.567976
+####################### 
+###### SET OFFTIME TIME 17
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 18 LastHourCheck: 18 LastMinuteCheck 0
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 18:05:04.539187
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 21.8
+Moisture: 32
+Light: 71
+Conductivity: 844
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 21.8 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 71 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 844 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 21.8 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 71 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 844 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 18:05:08.354665
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 5 LastHourCheck: 18 LastMinuteCheck 5
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 18:05:08.837273
+####################### 
+###### SET RUN TIME 0
+###### SET RUN TIME MINUTE 320 DEBUG runTimeMinute: 315 diffMinute: 5 currentHour: 18
+###### ONE TIME RUN MIN:30
+###### ELSE STILL MORE AIR
+###### UPDATE THE RUN TIME FOR AIR True RunTime: 0 RunTimeMinute: 320 OffTime: 18 LastHourCheck: 18 LastMinuteCheck 5
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 18:05:09.325571
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 18 LastHourCheck: 18 LastMinuteCheck 5
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 18:10:04.109117
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 22.0
+Moisture: 32
+Light: 71
+Conductivity: 845
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 22.0 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 71 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 845 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 22.0 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 71 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 845 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 18:10:07.360444
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 5 LastHourCheck: 18 LastMinuteCheck 10
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 18:10:07.754712
+####################### 
+###### SET RUN TIME 0
+###### SET RUN TIME MINUTE 325 DEBUG runTimeMinute: 320 diffMinute: 5 currentHour: 18
+###### ONE TIME RUN MIN:30
+###### ELSE STILL MORE AIR
+###### UPDATE THE RUN TIME FOR AIR True RunTime: 0 RunTimeMinute: 325 OffTime: 18 LastHourCheck: 18 LastMinuteCheck 10
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 18:10:08.243278
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 18 LastHourCheck: 18 LastMinuteCheck 10
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 18:15:03.320922
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 22.1
+Moisture: 32
+Light: 269
+Conductivity: 839
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 22.1 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 269 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 839 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 22.1 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 269 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 839 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 18:15:09.356693
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 5 LastHourCheck: 18 LastMinuteCheck 15
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 18:15:09.821825
+####################### 
+###### SET RUN TIME 0
+###### SET RUN TIME MINUTE 330 DEBUG runTimeMinute: 325 diffMinute: 5 currentHour: 18
+###### ONE TIME RUN MIN:30
+###### ELSE STILL MORE AIR
+###### UPDATE THE RUN TIME FOR AIR True RunTime: 0 RunTimeMinute: 330 OffTime: 18 LastHourCheck: 18 LastMinuteCheck 15
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 18:15:10.243529
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 18 LastHourCheck: 18 LastMinuteCheck 15
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 18:20:03.382793
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 22.2
+Moisture: 32
+Light: 48
+Conductivity: 838
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 22.2 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 48 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 838 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 22.2 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 48 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 838 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 18:20:06.338853
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 5 LastHourCheck: 18 LastMinuteCheck 20
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 18:20:06.917970
+####################### 
+###### SET RUN TIME 0
+###### SET RUN TIME MINUTE 335 DEBUG runTimeMinute: 330 diffMinute: 5 currentHour: 18
+###### ONE TIME RUN MIN:30
+###### ELSE STILL MORE AIR
+###### UPDATE THE RUN TIME FOR AIR True RunTime: 0 RunTimeMinute: 335 OffTime: 18 LastHourCheck: 18 LastMinuteCheck 20
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 18:20:07.421226
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 18 LastHourCheck: 18 LastMinuteCheck 20
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 18:25:04.282577
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 22.0
+Moisture: 32
+Light: 71
+Conductivity: 841
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 22.0 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 71 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 841 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 22.0 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 71 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 841 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 18:25:08.395883
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 5 LastHourCheck: 18 LastMinuteCheck 25
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 18:25:11.322231
+####################### 
+###### SET RUN TIME 0
+###### SET RUN TIME MINUTE 340 DEBUG runTimeMinute: 335 diffMinute: 5 currentHour: 18
+###### ONE TIME RUN MIN:30
+###### ELSE STILL MORE AIR
+###### UPDATE THE RUN TIME FOR AIR True RunTime: 0 RunTimeMinute: 340 OffTime: 18 LastHourCheck: 18 LastMinuteCheck 25
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 18:25:11.777273
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 18 LastHourCheck: 18 LastMinuteCheck 25
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 18:30:04.529534
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 22.0
+Moisture: 32
+Light: 263
+Conductivity: 841
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 22.0 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 263 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 841 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 22.0 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 263 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 841 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 18:30:07.385747
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 5 LastHourCheck: 18 LastMinuteCheck 30
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 18:30:07.897481
+####################### 
+###### SET RUN TIME 0
+###### SET RUN TIME MINUTE 345 DEBUG runTimeMinute: 340 diffMinute: 5 currentHour: 18
+###### ONE TIME RUN MIN:30
+###### CONTRAINT MAX ONE MINUTE RUN: TURN OFF AIR
+###### UPDATE THE RUN TIME FOR AIR False RunTime: 0 RunTimeMinute: 345 OffTime: 18 LastHourCheck: 18 LastMinuteCheck 30
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 18:30:08.494884
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 18 LastHourCheck: 18 LastMinuteCheck 30
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 18:35:04.659652
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 21.7
+Moisture: 32
+Light: 23
+Conductivity: 845
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 21.7 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 23 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 845 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 21.7 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 23 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 845 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 18:35:09.359170
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 5 LastHourCheck: 18 LastMinuteCheck 35
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 18:35:10.057035
+####################### 
+###### ONE TIME RUN MIN:30
+###### CONTRAINT MAX ONE MINUTE RUN: TURN OFF AIR
+###### UPDATE THE RUN TIME FOR AIR False RunTime: 0 RunTimeMinute: 345 OffTime: 18 LastHourCheck: 18 LastMinuteCheck 35
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 18:35:10.559839
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 18 LastHourCheck: 18 LastMinuteCheck 35
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 18:40:04.269480
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 21.3
+Moisture: 32
+Light: 48
+Conductivity: 851
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 21.3 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 48 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 851 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 21.3 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 48 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 851 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 18:40:09.381916
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 5 LastHourCheck: 18 LastMinuteCheck 40
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 18:40:10.826544
+####################### 
+###### ONE TIME RUN MIN:30
+###### CONTRAINT MAX ONE MINUTE RUN: TURN OFF AIR
+###### UPDATE THE RUN TIME FOR AIR False RunTime: 0 RunTimeMinute: 345 OffTime: 18 LastHourCheck: 18 LastMinuteCheck 40
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 18:40:11.304928
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 18 LastHourCheck: 18 LastMinuteCheck 40
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 18:45:03.816875
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 21.0
+Moisture: 32
+Light: 269
+Conductivity: 851
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 21.0 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 269 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 851 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 21.0 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 269 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 851 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 18:45:09.364405
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 5 LastHourCheck: 18 LastMinuteCheck 45
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 18:45:09.885255
+####################### 
+###### ONE TIME RUN MIN:30
+###### CONTRAINT MAX ONE MINUTE RUN: TURN OFF AIR
+###### UPDATE THE RUN TIME FOR AIR False RunTime: 0 RunTimeMinute: 345 OffTime: 18 LastHourCheck: 18 LastMinuteCheck 45
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 18:45:10.388743
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 18 LastHourCheck: 18 LastMinuteCheck 45
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 18:50:04.430818
+####################### 
+##########################
+### RECOMMENDATION FAILED
+### with issue  database is locked
+##########################
+                          
+                          
+####################### 
+## STARTING SUN CHECK at 2023-03-10 18:50:09.453437
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 5 LastHourCheck: 18 LastMinuteCheck 50
+Traceback (most recent call last):
+  File "/home/weedle/weedlecode/main.py", line 33, in <module>
+    runAllElement()
+  File "/home/weedle/weedlecode/main.py", line 18, in runAllElement
+    runElement(plantSize,'SUN',sun)
+  File "/home/weedle/weedlecode/util/runElement.py", line 232, in runElement
+    conn.execute("UPDATE W_ELEMENT_RUNTIME SET STATE=?, RUN_TIME=?, RUN_TIME_MINUTE=?, OFF_TIME=?, LAST_MINUTE_CHECK=?, LAST_HOUR_CHECK=? WHERE AR_ID=?" ,
+sqlite3.OperationalError: database is locked
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 18:55:05.644373
+####################### 
+##########################
+### RECOMMENDATION FAILED
+### with issue  database is locked
+##########################
+                          
+                          
+####################### 
+## STARTING SUN CHECK at 2023-03-10 18:55:10.702540
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 5 LastHourCheck: 18 LastMinuteCheck 55
+Traceback (most recent call last):
+  File "/home/weedle/weedlecode/main.py", line 33, in <module>
+    runAllElement()
+  File "/home/weedle/weedlecode/main.py", line 18, in runAllElement
+    runElement(plantSize,'SUN',sun)
+  File "/home/weedle/weedlecode/util/runElement.py", line 232, in runElement
+    conn.execute("UPDATE W_ELEMENT_RUNTIME SET STATE=?, RUN_TIME=?, RUN_TIME_MINUTE=?, OFF_TIME=?, LAST_MINUTE_CHECK=?, LAST_HOUR_CHECK=? WHERE AR_ID=?" ,
+sqlite3.OperationalError: database is locked
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 19:00:04.733900
+####################### 
+##########################
+### RECOMMENDATION FAILED
+### with issue  
+##########################
+                          
+                          
+####################### 
+## STARTING SUN CHECK at 2023-03-10 19:00:12.296335
+####################### 
+###### SET OFFTIME TIME 5
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 6 LastHourCheck: 19 LastMinuteCheck 0
+Traceback (most recent call last):
+  File "/home/weedle/weedlecode/main.py", line 33, in <module>
+    runAllElement()
+  File "/home/weedle/weedlecode/main.py", line 18, in runAllElement
+    runElement(plantSize,'SUN',sun)
+  File "/home/weedle/weedlecode/util/runElement.py", line 232, in runElement
+    conn.execute("UPDATE W_ELEMENT_RUNTIME SET STATE=?, RUN_TIME=?, RUN_TIME_MINUTE=?, OFF_TIME=?, LAST_MINUTE_CHECK=?, LAST_HOUR_CHECK=? WHERE AR_ID=?" ,
+sqlite3.OperationalError: database is locked
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 19:05:04.165425
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 20.8
+Moisture: 32
+Light: 71
+Conductivity: 858
+###### INSERTING THE METRIC TRACKER name: Temperature value 20.8 unit: CELCIUS
+###### INSERTING THE METRIC TRACKER name: Soil-Moisture value 32 unit: %
+###### INSERTING THE METRIC TRACKER name: Sun value 71 unit: LUX
+###### INSERTING THE METRIC TRACKER name: Soil-Fertility value 858 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 20.8 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### INSERTING THE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 71 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 858 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 19:05:07.332025
+####################### 
+###### SET OFFTIME TIME 5
+###### RECOMMENDATION: Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 71 LUX vs Best Practices 3600 LUX
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 6 LastHourCheck: 19 LastMinuteCheck 5
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 19:05:07.788703
+####################### 
+###### SET OFFTIME TIME 18
+###### ONE TIME RUN MIN:30
+###### ELSE STILL MORE AIR
+###### UPDATE THE RUN TIME FOR AIR True RunTime: 0 RunTimeMinute: 345 OffTime: 19 LastHourCheck: 19 LastMinuteCheck 5
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 19:05:08.225440
+####################### 
+###### SET OFFTIME TIME 18
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 19 LastHourCheck: 19 LastMinuteCheck 5
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 19:10:04.012747
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 20.9
+Moisture: 32
+Light: 71
+Conductivity: 857
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 20.9 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 71 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 857 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 20.9 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 71 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 857 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 19:10:07.330748
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 6 LastHourCheck: 19 LastMinuteCheck 10
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 19:10:07.789190
+####################### 
+###### SET RUN TIME 0
+###### SET RUN TIME MINUTE 350 DEBUG runTimeMinute: 345 diffMinute: 5 currentHour: 19
+###### ONE TIME RUN MIN:30
+###### ELSE STILL MORE AIR
+###### UPDATE THE RUN TIME FOR AIR True RunTime: 0 RunTimeMinute: 350 OffTime: 19 LastHourCheck: 19 LastMinuteCheck 10
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 19:10:08.373422
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 19 LastHourCheck: 19 LastMinuteCheck 10
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 19:15:04.669947
+####################### 
+##########################
+### RECOMMENDATION FAILED
+### with issue  
+##########################
+                          
+                          
+####################### 
+## STARTING SUN CHECK at 2023-03-10 19:15:12.268584
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 6 LastHourCheck: 19 LastMinuteCheck 15
+Traceback (most recent call last):
+  File "/home/weedle/weedlecode/main.py", line 33, in <module>
+    runAllElement()
+  File "/home/weedle/weedlecode/main.py", line 18, in runAllElement
+    runElement(plantSize,'SUN',sun)
+  File "/home/weedle/weedlecode/util/runElement.py", line 232, in runElement
+    conn.execute("UPDATE W_ELEMENT_RUNTIME SET STATE=?, RUN_TIME=?, RUN_TIME_MINUTE=?, OFF_TIME=?, LAST_MINUTE_CHECK=?, LAST_HOUR_CHECK=? WHERE AR_ID=?" ,
+sqlite3.OperationalError: database is locked
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 19:20:04.179653
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 21.0
+Moisture: 32
+Light: 269
+Conductivity: 851
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 21.0 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 269 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 851 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 21.0 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 269 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 851 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 19:20:10.368323
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 6 LastHourCheck: 19 LastMinuteCheck 20
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 19:20:10.911935
+####################### 
+###### SET RUN TIME 0
+###### SET RUN TIME MINUTE 360 DEBUG runTimeMinute: 350 diffMinute: 10 currentHour: 19
+###### ONE TIME RUN MIN:30
+###### ELSE STILL MORE AIR
+###### UPDATE THE RUN TIME FOR AIR True RunTime: 0 RunTimeMinute: 360 OffTime: 19 LastHourCheck: 19 LastMinuteCheck 20
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 19:20:11.365701
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 19 LastHourCheck: 19 LastMinuteCheck 20
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 19:25:03.738419
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 20.9
+Moisture: 32
+Light: 48
+Conductivity: 857
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 20.9 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 48 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 857 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 20.9 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 48 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 857 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 19:25:05.339575
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 6 LastHourCheck: 19 LastMinuteCheck 25
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 19:25:05.827602
+####################### 
+###### SET RUN TIME 0
+###### SET RUN TIME MINUTE 365 DEBUG runTimeMinute: 360 diffMinute: 5 currentHour: 19
+###### ONE TIME RUN MIN:30
+###### ELSE STILL MORE AIR
+###### UPDATE THE RUN TIME FOR AIR True RunTime: 0 RunTimeMinute: 365 OffTime: 19 LastHourCheck: 19 LastMinuteCheck 25
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 19:25:06.323133
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 19 LastHourCheck: 19 LastMinuteCheck 25
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 19:30:04.691504
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 20.9
+Moisture: 32
+Light: 71
+Conductivity: 857
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 20.9 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 71 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 857 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 20.9 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 71 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 857 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 19:30:11.351600
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 6 LastHourCheck: 19 LastMinuteCheck 30
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 19:30:11.925282
+####################### 
+###### SET RUN TIME 0
+###### SET RUN TIME MINUTE 370 DEBUG runTimeMinute: 365 diffMinute: 5 currentHour: 19
+###### ONE TIME RUN MIN:30
+###### CONTRAINT MAX ONE MINUTE RUN: TURN OFF AIR
+###### UPDATE THE RUN TIME FOR AIR False RunTime: 0 RunTimeMinute: 370 OffTime: 19 LastHourCheck: 19 LastMinuteCheck 30
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 19:30:12.429630
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 19 LastHourCheck: 19 LastMinuteCheck 30
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 19:35:04.718246
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 20.8
+Moisture: 32
+Light: 269
+Conductivity: 858
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 20.8 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 269 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 858 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 20.8 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 269 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 858 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 19:35:06.323694
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 6 LastHourCheck: 19 LastMinuteCheck 35
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 19:35:06.720209
+####################### 
+###### ONE TIME RUN MIN:30
+###### CONTRAINT MAX ONE MINUTE RUN: TURN OFF AIR
+###### UPDATE THE RUN TIME FOR AIR False RunTime: 0 RunTimeMinute: 370 OffTime: 19 LastHourCheck: 19 LastMinuteCheck 35
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 19:35:07.311941
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 19 LastHourCheck: 19 LastMinuteCheck 35
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 19:40:04.301303
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 20.5
+Moisture: 32
+Light: 44
+Conductivity: 858
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 20.5 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 32 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 44 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 858 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 20.5 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 32 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 44 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 858 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 19:40:07.282430
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 6 LastHourCheck: 19 LastMinuteCheck 40
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 19:40:07.827793
+####################### 
+###### ONE TIME RUN MIN:30
+###### CONTRAINT MAX ONE MINUTE RUN: TURN OFF AIR
+###### UPDATE THE RUN TIME FOR AIR False RunTime: 0 RunTimeMinute: 370 OffTime: 19 LastHourCheck: 19 LastMinuteCheck 40
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 19:40:08.489975
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 19 LastHourCheck: 19 LastMinuteCheck 40
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 19:45:04.127008
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 20.5
+Moisture: 31
+Light: 71
+Conductivity: 858
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 20.5 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 31 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 71 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 858 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 20.5 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 31 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 71 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 858 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 19:45:12.371023
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 6 LastHourCheck: 19 LastMinuteCheck 45
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 19:45:13.656443
+####################### 
+###### ONE TIME RUN MIN:30
+###### CONTRAINT MAX ONE MINUTE RUN: TURN OFF AIR
+###### UPDATE THE RUN TIME FOR AIR False RunTime: 0 RunTimeMinute: 370 OffTime: 19 LastHourCheck: 19 LastMinuteCheck 45
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 19:45:14.093495
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 19 LastHourCheck: 19 LastMinuteCheck 45
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 19:50:05.136701
+####################### 
+##########################
+### RECOMMENDATION FAILED
+### with issue  database is locked
+##########################
+                          
+                          
+####################### 
+## STARTING SUN CHECK at 2023-03-10 19:50:10.159208
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 6 LastHourCheck: 19 LastMinuteCheck 50
+Traceback (most recent call last):
+  File "/home/weedle/weedlecode/main.py", line 33, in <module>
+    runAllElement()
+  File "/home/weedle/weedlecode/main.py", line 18, in runAllElement
+    runElement(plantSize,'SUN',sun)
+  File "/home/weedle/weedlecode/util/runElement.py", line 232, in runElement
+    conn.execute("UPDATE W_ELEMENT_RUNTIME SET STATE=?, RUN_TIME=?, RUN_TIME_MINUTE=?, OFF_TIME=?, LAST_MINUTE_CHECK=?, LAST_HOUR_CHECK=? WHERE AR_ID=?" ,
+sqlite3.OperationalError: database is locked
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 19:55:05.853488
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 20.3
+Moisture: 31
+Light: 230
+Conductivity: 861
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 20.3 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 31 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 230 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 861 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 20.3 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 31 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 230 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 861 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 19:55:14.335395
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 6 LastHourCheck: 19 LastMinuteCheck 55
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 19:55:14.874878
+####################### 
+###### ONE TIME RUN MIN:30
+###### CONTRAINT MAX ONE MINUTE RUN: TURN OFF AIR
+###### UPDATE THE RUN TIME FOR AIR False RunTime: 0 RunTimeMinute: 370 OffTime: 19 LastHourCheck: 19 LastMinuteCheck 55
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 19:55:15.367012
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 19 LastHourCheck: 19 LastMinuteCheck 55
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 20:00:04.152194
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 20.3
+Moisture: 31
+Light: 21
+Conductivity: 861
+###### INSERTING THE METRIC TRACKER name: Temperature value 20.3 unit: CELCIUS
+###### INSERTING THE METRIC TRACKER name: Soil-Moisture value 31 unit: %
+###### INSERTING THE METRIC TRACKER name: Sun value 21 unit: LUX
+###### INSERTING THE METRIC TRACKER name: Soil-Fertility value 861 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 20.3 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 31 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### INSERTING THE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 21 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 861 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 20:00:08.313088
+####################### 
+###### SET OFFTIME TIME 6
+###### RECOMMENDATION: Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 21 LUX vs Best Practices 3600 LUX
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 7 LastHourCheck: 20 LastMinuteCheck 0
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 20:00:09.029009
+####################### 
+###### SET OFFTIME TIME 19
+###### ONE TIME RUN MIN:30
+###### ELSE STILL MORE AIR
+###### UPDATE THE RUN TIME FOR AIR True RunTime: 0 RunTimeMinute: 370 OffTime: 20 LastHourCheck: 20 LastMinuteCheck 0
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 20:00:09.493794
+####################### 
+###### SET OFFTIME TIME 19
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 20 LastHourCheck: 20 LastMinuteCheck 0
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 20:05:04.404709
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 20.5
+Moisture: 31
+Light: 44
+Conductivity: 858
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 20.5 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 31 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 44 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 858 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 20.5 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 31 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 44 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 858 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 20:05:07.374336
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 7 LastHourCheck: 20 LastMinuteCheck 5
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 20:05:07.876678
+####################### 
+###### SET RUN TIME 0
+###### SET RUN TIME MINUTE 375 DEBUG runTimeMinute: 370 diffMinute: 5 currentHour: 20
+###### ONE TIME RUN MIN:30
+###### ELSE STILL MORE AIR
+###### UPDATE THE RUN TIME FOR AIR True RunTime: 0 RunTimeMinute: 375 OffTime: 20 LastHourCheck: 20 LastMinuteCheck 5
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 20:05:08.408666
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 20 LastHourCheck: 20 LastMinuteCheck 5
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 20:10:04.176642
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 20.4
+Moisture: 31
+Light: 195
+Conductivity: 860
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 20.4 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 31 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 195 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 860 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 20.4 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 31 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 195 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 860 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 20:10:09.275564
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 7 LastHourCheck: 20 LastMinuteCheck 10
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 20:10:10.108076
+####################### 
+###### SET RUN TIME 0
+###### SET RUN TIME MINUTE 380 DEBUG runTimeMinute: 375 diffMinute: 5 currentHour: 20
+###### ONE TIME RUN MIN:30
+###### ELSE STILL MORE AIR
+###### UPDATE THE RUN TIME FOR AIR True RunTime: 0 RunTimeMinute: 380 OffTime: 20 LastHourCheck: 20 LastMinuteCheck 10
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 20:10:10.615263
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 20 LastHourCheck: 20 LastMinuteCheck 10
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 20:15:04.189189
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 20.5
+Moisture: 31
+Light: 48
+Conductivity: 858
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 20.5 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 31 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 48 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 858 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 20.5 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 31 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 48 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 858 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 20:15:08.331621
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 7 LastHourCheck: 20 LastMinuteCheck 15
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 20:15:08.890289
+####################### 
+###### SET RUN TIME 0
+###### SET RUN TIME MINUTE 385 DEBUG runTimeMinute: 380 diffMinute: 5 currentHour: 20
+###### ONE TIME RUN MIN:30
+###### ELSE STILL MORE AIR
+###### UPDATE THE RUN TIME FOR AIR True RunTime: 0 RunTimeMinute: 385 OffTime: 20 LastHourCheck: 20 LastMinuteCheck 15
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 20:15:09.391091
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 20 LastHourCheck: 20 LastMinuteCheck 15
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 20:20:04.387673
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 20.5
+Moisture: 31
+Light: 44
+Conductivity: 858
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 20.5 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 31 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 44 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 858 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 20.5 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 31 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 44 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 858 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 20:20:08.288296
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 7 LastHourCheck: 20 LastMinuteCheck 20
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 20:20:08.947167
+####################### 
+###### SET RUN TIME 0
+###### SET RUN TIME MINUTE 390 DEBUG runTimeMinute: 385 diffMinute: 5 currentHour: 20
+###### ONE TIME RUN MIN:30
+###### ELSE STILL MORE AIR
+###### UPDATE THE RUN TIME FOR AIR True RunTime: 0 RunTimeMinute: 390 OffTime: 20 LastHourCheck: 20 LastMinuteCheck 20
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 20:20:09.394674
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 20 LastHourCheck: 20 LastMinuteCheck 20
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 20:25:04.718928
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 20.6
+Moisture: 31
+Light: 230
+Conductivity: 852
+##########################
+### RECOMMENDATION FAILED
+### with issue  no such table: W_METRIC_TRACKER
+##########################
+                          
+                          
+####################### 
+## STARTING SUN CHECK at 2023-03-10 20:25:08.248332
+####################### 
+###### CONTRAINT TIME SAVING: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 7 LastHourCheck: 20 LastMinuteCheck 25
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 20:25:08.759347
+####################### 
+###### SET RUN TIME 0
+###### SET RUN TIME MINUTE 395 DEBUG runTimeMinute: 390 diffMinute: 5 currentHour: 20
+###### ONE TIME RUN MIN:30
+###### ELSE STILL MORE AIR
+###### UPDATE THE RUN TIME FOR AIR True RunTime: 0 RunTimeMinute: 395 OffTime: 20 LastHourCheck: 20 LastMinuteCheck 25
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 20:25:09.273638
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 20 LastHourCheck: 20 LastMinuteCheck 25
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 20:30:04.314124
+####################### 
+##########################
+### RECOMMENDATION FAILED
+### with issue  no such table: w_recommendation
+##########################
+                          
+                          
+####################### 
+## STARTING SUN CHECK at 2023-03-10 20:30:04.316746
+####################### 
+Traceback (most recent call last):
+  File "/home/weedle/weedlecode/main.py", line 33, in <module>
+    runAllElement()
+  File "/home/weedle/weedlecode/main.py", line 18, in runAllElement
+    runElement(plantSize,'SUN',sun)
+  File "/home/weedle/weedlecode/util/runElement.py", line 137, in runElement
+    cursor = conn.execute("SELECT * FROM W_RECOMMENDATION WHERE ELEMENT=? AND (STATE=? OR STATE=?) AND DAY=? AND HOUR=? order by PRIORITY",
+sqlite3.OperationalError: no such table: W_RECOMMENDATION
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 20:35:04.761979
+####################### 
+##########################
+### RECOMMENDATION FAILED
+### with issue  no such table: w_recommendation
+##########################
+                          
+                          
+####################### 
+## STARTING SUN CHECK at 2023-03-10 20:35:04.766981
+####################### 
+Traceback (most recent call last):
+  File "/home/weedle/weedlecode/main.py", line 33, in <module>
+    runAllElement()
+  File "/home/weedle/weedlecode/main.py", line 18, in runAllElement
+    runElement(plantSize,'SUN',sun)
+  File "/home/weedle/weedlecode/util/runElement.py", line 137, in runElement
+    cursor = conn.execute("SELECT * FROM W_RECOMMENDATION WHERE ELEMENT=? AND (STATE=? OR STATE=?) AND DAY=? AND HOUR=? order by PRIORITY",
+sqlite3.OperationalError: no such table: W_RECOMMENDATION
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 20:40:04.041948
+####################### 
+##########################
+### RECOMMENDATION FAILED
+### with issue  no such table: w_recommendation
+##########################
+                          
+                          
+####################### 
+## STARTING SUN CHECK at 2023-03-10 20:40:04.046987
+####################### 
+Traceback (most recent call last):
+  File "/home/weedle/weedlecode/main.py", line 33, in <module>
+    runAllElement()
+  File "/home/weedle/weedlecode/main.py", line 18, in runAllElement
+    runElement(plantSize,'SUN',sun)
+  File "/home/weedle/weedlecode/util/runElement.py", line 137, in runElement
+    cursor = conn.execute("SELECT * FROM W_RECOMMENDATION WHERE ELEMENT=? AND (STATE=? OR STATE=?) AND DAY=? AND HOUR=? order by PRIORITY",
+sqlite3.OperationalError: no such table: W_RECOMMENDATION
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 20:45:04.683332
+####################### 
+##########################
+### RECOMMENDATION FAILED
+### with issue  no such table: w_recommendation
+##########################
+                          
+                          
+####################### 
+## STARTING SUN CHECK at 2023-03-10 20:45:04.688391
+####################### 
+Traceback (most recent call last):
+  File "/home/weedle/weedlecode/main.py", line 33, in <module>
+    runAllElement()
+  File "/home/weedle/weedlecode/main.py", line 18, in runAllElement
+    runElement(plantSize,'SUN',sun)
+  File "/home/weedle/weedlecode/util/runElement.py", line 137, in runElement
+    cursor = conn.execute("SELECT * FROM W_RECOMMENDATION WHERE ELEMENT=? AND (STATE=? OR STATE=?) AND DAY=? AND HOUR=? order by PRIORITY",
+sqlite3.OperationalError: no such table: W_RECOMMENDATION
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 20:50:03.325888
+####################### 
+##########################
+### RECOMMENDATION FAILED
+### with issue  no such table: w_recommendation
+##########################
+                          
+                          
+####################### 
+## STARTING SUN CHECK at 2023-03-10 20:50:03.330929
+####################### 
+Traceback (most recent call last):
+  File "/home/weedle/weedlecode/main.py", line 33, in <module>
+    runAllElement()
+  File "/home/weedle/weedlecode/main.py", line 18, in runAllElement
+    runElement(plantSize,'SUN',sun)
+  File "/home/weedle/weedlecode/util/runElement.py", line 137, in runElement
+    cursor = conn.execute("SELECT * FROM W_RECOMMENDATION WHERE ELEMENT=? AND (STATE=? OR STATE=?) AND DAY=? AND HOUR=? order by PRIORITY",
+sqlite3.OperationalError: no such table: W_RECOMMENDATION
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 20:55:05.671008
+####################### 
+##########################
+### RECOMMENDATION FAILED
+### with issue  no such table: w_recommendation
+##########################
+                          
+                          
+####################### 
+## STARTING SUN CHECK at 2023-03-10 20:55:05.676445
+####################### 
+Traceback (most recent call last):
+  File "/home/weedle/weedlecode/main.py", line 33, in <module>
+    runAllElement()
+  File "/home/weedle/weedlecode/main.py", line 18, in runAllElement
+    runElement(plantSize,'SUN',sun)
+  File "/home/weedle/weedlecode/util/runElement.py", line 137, in runElement
+    cursor = conn.execute("SELECT * FROM W_RECOMMENDATION WHERE ELEMENT=? AND (STATE=? OR STATE=?) AND DAY=? AND HOUR=? order by PRIORITY",
+sqlite3.OperationalError: no such table: W_RECOMMENDATION
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 21:00:04.404715
+####################### 
+##########################
+### RECOMMENDATION FAILED
+### with issue  no such table: w_recommendation
+##########################
+                          
+                          
+####################### 
+## STARTING SUN CHECK at 2023-03-10 21:00:04.409714
+####################### 
+###### SET OFFTIME TIME 7
+Traceback (most recent call last):
+  File "/home/weedle/weedlecode/main.py", line 33, in <module>
+    runAllElement()
+  File "/home/weedle/weedlecode/main.py", line 18, in runAllElement
+    runElement(plantSize,'SUN',sun)
+  File "/home/weedle/weedlecode/util/runElement.py", line 137, in runElement
+    cursor = conn.execute("SELECT * FROM W_RECOMMENDATION WHERE ELEMENT=? AND (STATE=? OR STATE=?) AND DAY=? AND HOUR=? order by PRIORITY",
+sqlite3.OperationalError: no such table: W_RECOMMENDATION
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 21:05:05.111037
+####################### 
+##########################
+### RECOMMENDATION FAILED
+### with issue  no such table: w_recommendation
+##########################
+                          
+                          
+####################### 
+## STARTING SUN CHECK at 2023-03-10 21:05:05.116625
+####################### 
+###### SET OFFTIME TIME 7
+Traceback (most recent call last):
+  File "/home/weedle/weedlecode/main.py", line 33, in <module>
+    runAllElement()
+  File "/home/weedle/weedlecode/main.py", line 18, in runAllElement
+    runElement(plantSize,'SUN',sun)
+  File "/home/weedle/weedlecode/util/runElement.py", line 137, in runElement
+    cursor = conn.execute("SELECT * FROM W_RECOMMENDATION WHERE ELEMENT=? AND (STATE=? OR STATE=?) AND DAY=? AND HOUR=? order by PRIORITY",
+sqlite3.OperationalError: no such table: W_RECOMMENDATION
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 21:10:04.565709
+####################### 
+##########################
+### RECOMMENDATION FAILED
+### with issue  no such table: w_recommendation
+##########################
+                          
+                          
+####################### 
+## STARTING SUN CHECK at 2023-03-10 21:10:04.570801
+####################### 
+###### SET OFFTIME TIME 7
+Traceback (most recent call last):
+  File "/home/weedle/weedlecode/main.py", line 33, in <module>
+    runAllElement()
+  File "/home/weedle/weedlecode/main.py", line 18, in runAllElement
+    runElement(plantSize,'SUN',sun)
+  File "/home/weedle/weedlecode/util/runElement.py", line 137, in runElement
+    cursor = conn.execute("SELECT * FROM W_RECOMMENDATION WHERE ELEMENT=? AND (STATE=? OR STATE=?) AND DAY=? AND HOUR=? order by PRIORITY",
+sqlite3.OperationalError: no such table: W_RECOMMENDATION
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 21:15:04.887256
+####################### 
+##########################
+### RECOMMENDATION FAILED
+### with issue  no such table: w_recommendation
+##########################
+                          
+                          
+####################### 
+## STARTING SUN CHECK at 2023-03-10 21:15:04.892106
+####################### 
+###### SET OFFTIME TIME 7
+Traceback (most recent call last):
+  File "/home/weedle/weedlecode/main.py", line 33, in <module>
+    runAllElement()
+  File "/home/weedle/weedlecode/main.py", line 18, in runAllElement
+    runElement(plantSize,'SUN',sun)
+  File "/home/weedle/weedlecode/util/runElement.py", line 137, in runElement
+    cursor = conn.execute("SELECT * FROM W_RECOMMENDATION WHERE ELEMENT=? AND (STATE=? OR STATE=?) AND DAY=? AND HOUR=? order by PRIORITY",
+sqlite3.OperationalError: no such table: W_RECOMMENDATION
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 21:20:04.612067
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 21.6
+Moisture: 31
+Light: 44
+Conductivity: 833
+###### INSERTING THE METRIC TRACKER name: Temperature value 21.6 unit: CELCIUS
+###### INSERTING THE METRIC TRACKER name: Soil-Moisture value 31 unit: %
+###### INSERTING THE METRIC TRACKER name: Sun value 44 unit: LUX
+###### INSERTING THE METRIC TRACKER name: Soil-Fertility value 833 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 21.6 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 31 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### INSERTING THE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 44 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 833 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 21:20:09.239824
+####################### 
+###### SET OFFTIME TIME 7
+###### RECOMMENDATION: Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 44 LUX vs Best Practices 3600 LUX
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 8 LastHourCheck: 21 LastMinuteCheck 20
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 21:20:09.742733
+####################### 
+###### SET RUN TIME 0
+###### SET RUN TIME MINUTE 395 DEBUG runTimeMinute: 395 diffMinute: -5 currentHour: 21
+###### ONE TIME RUN MIN:30
+###### ELSE STILL MORE AIR
+###### UPDATE THE RUN TIME FOR AIR True RunTime: 1 RunTimeMinute: 395 OffTime: 20 LastHourCheck: 21 LastMinuteCheck 20
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 21:20:10.248610
+####################### 
+###### SET OFFTIME TIME 20
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 21 LastHourCheck: 21 LastMinuteCheck 20
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 21:25:05.166589
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 22.0
+Moisture: 31
+Light: 44
+Conductivity: 827
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 22.0 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 31 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 44 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 827 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 22.0 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 31 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 44 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 827 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 21:25:10.266757
+####################### 
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 8 LastHourCheck: 21 LastMinuteCheck 25
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 21:25:11.080698
+####################### 
+###### SET RUN TIME 1
+###### SET RUN TIME MINUTE 400 DEBUG runTimeMinute: 395 diffMinute: 5 currentHour: 21
+###### ONE TIME RUN MIN:30
+###### ELSE STILL MORE AIR
+###### UPDATE THE RUN TIME FOR AIR True RunTime: 1 RunTimeMinute: 400 OffTime: 20 LastHourCheck: 21 LastMinuteCheck 25
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 21:25:11.583824
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 21 LastHourCheck: 21 LastMinuteCheck 25
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 21:30:04.466737
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 21.7
+Moisture: 33
+Light: 269
+Conductivity: 832
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 21.7 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 33 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 269 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 832 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 21.7 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 33 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 269 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 832 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 21:30:06.295743
+####################### 
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 8 LastHourCheck: 21 LastMinuteCheck 30
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 21:30:06.768305
+####################### 
+###### SET RUN TIME 1
+###### SET RUN TIME MINUTE 405 DEBUG runTimeMinute: 400 diffMinute: 5 currentHour: 21
+###### ONE TIME RUN MIN:30
+###### CONTRAINT MAX ONE MINUTE RUN: TURN OFF AIR
+###### UPDATE THE RUN TIME FOR AIR False RunTime: 1 RunTimeMinute: 405 OffTime: 20 LastHourCheck: 21 LastMinuteCheck 30
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 21:30:07.325012
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 21 LastHourCheck: 21 LastMinuteCheck 30
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 21:35:04.255696
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 21.4
+Moisture: 31
+Light: 71
+Conductivity: 832
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 21.4 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 31 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 71 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 832 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 21.4 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 31 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 71 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 832 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 21:35:08.261009
+####################### 
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 8 LastHourCheck: 21 LastMinuteCheck 35
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 21:35:10.292307
+####################### 
+###### ONE TIME RUN MIN:30
+###### CONTRAINT MAX ONE MINUTE RUN: TURN OFF AIR
+###### UPDATE THE RUN TIME FOR AIR False RunTime: 1 RunTimeMinute: 405 OffTime: 20 LastHourCheck: 21 LastMinuteCheck 35
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 21:35:10.782471
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 21 LastHourCheck: 21 LastMinuteCheck 35
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 21:40:04.879573
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 21.1
+Moisture: 31
+Light: 124
+Conductivity: 840
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 21.1 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 31 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 124 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 840 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 21.1 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 31 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 124 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 840 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 21:40:09.438345
+####################### 
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 8 LastHourCheck: 21 LastMinuteCheck 40
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 21:40:10.938192
+####################### 
+###### ONE TIME RUN MIN:30
+###### CONTRAINT MAX ONE MINUTE RUN: TURN OFF AIR
+###### UPDATE THE RUN TIME FOR AIR False RunTime: 1 RunTimeMinute: 405 OffTime: 20 LastHourCheck: 21 LastMinuteCheck 40
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 21:40:11.462599
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 21 LastHourCheck: 21 LastMinuteCheck 40
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 21:45:04.541834
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 20.9
+Moisture: 31
+Light: 44
+Conductivity: 839
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 20.9 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 31 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 44 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 839 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 20.9 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 31 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 44 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 839 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 21:45:09.215066
+####################### 
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 8 LastHourCheck: 21 LastMinuteCheck 45
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 21:45:10.533626
+####################### 
+###### ONE TIME RUN MIN:30
+###### CONTRAINT MAX ONE MINUTE RUN: TURN OFF AIR
+###### UPDATE THE RUN TIME FOR AIR False RunTime: 1 RunTimeMinute: 405 OffTime: 20 LastHourCheck: 21 LastMinuteCheck 45
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 21:45:10.982650
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 21 LastHourCheck: 21 LastMinuteCheck 45
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 21:50:04.967710
+####################### 
+##########################
+### RECOMMENDATION FAILED
+### with issue  database is locked
+##########################
+                          
+                          
+####################### 
+## STARTING SUN CHECK at 2023-03-10 21:50:09.989657
+####################### 
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 8 LastHourCheck: 21 LastMinuteCheck 50
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 21:50:11.452413
+####################### 
+###### ONE TIME RUN MIN:30
+###### CONTRAINT MAX ONE MINUTE RUN: TURN OFF AIR
+###### UPDATE THE RUN TIME FOR AIR False RunTime: 1 RunTimeMinute: 405 OffTime: 20 LastHourCheck: 21 LastMinuteCheck 50
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 21:50:11.935136
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 21 LastHourCheck: 21 LastMinuteCheck 50
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 21:55:05.132461
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 20.6
+Moisture: 31
+Light: 233
+Conductivity: 847
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 20.6 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 31 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 233 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 847 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 20.6 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 31 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 233 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 847 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 21:55:08.575316
+####################### 
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 8 LastHourCheck: 21 LastMinuteCheck 55
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 21:55:08.944776
+####################### 
+###### ONE TIME RUN MIN:30
+###### CONTRAINT MAX ONE MINUTE RUN: TURN OFF AIR
+###### UPDATE THE RUN TIME FOR AIR False RunTime: 1 RunTimeMinute: 405 OffTime: 20 LastHourCheck: 21 LastMinuteCheck 55
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 21:55:09.440582
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 21 LastHourCheck: 21 LastMinuteCheck 55
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 22:00:04.473845
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 20.5
+Moisture: 31
+Light: 44
+Conductivity: 849
+###### INSERTING THE METRIC TRACKER name: Temperature value 20.5 unit: CELCIUS
+###### INSERTING THE METRIC TRACKER name: Soil-Moisture value 31 unit: %
+###### INSERTING THE METRIC TRACKER name: Sun value 44 unit: LUX
+###### INSERTING THE METRIC TRACKER name: Soil-Fertility value 849 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 20.5 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 31 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### INSERTING THE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 44 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 849 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 22:00:06.227160
+####################### 
+###### SET OFFTIME TIME 8
+###### RECOMMENDATION: Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 44 LUX vs Best Practices 3600 LUX
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 9 LastHourCheck: 22 LastMinuteCheck 0
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 22:00:07.808759
+####################### 
+###### SET OFFTIME TIME 20
+###### ONE TIME RUN MIN:30
+###### ELSE STILL MORE AIR
+###### UPDATE THE RUN TIME FOR AIR True RunTime: 1 RunTimeMinute: 405 OffTime: 21 LastHourCheck: 22 LastMinuteCheck 0
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 22:00:08.390935
+####################### 
+###### SET OFFTIME TIME 21
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 22 LastHourCheck: 22 LastMinuteCheck 0
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 22:05:04.577969
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 20.6
+Moisture: 31
+Light: 94
+Conductivity: 843
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 20.6 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 31 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 94 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 843 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 20.6 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 31 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 94 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 843 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 22:05:08.258081
+####################### 
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 9 LastHourCheck: 22 LastMinuteCheck 5
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 22:05:09.502960
+####################### 
+###### SET RUN TIME 1
+###### SET RUN TIME MINUTE 410 DEBUG runTimeMinute: 405 diffMinute: 5 currentHour: 22
+###### ONE TIME RUN MIN:30
+###### ELSE STILL MORE AIR
+###### UPDATE THE RUN TIME FOR AIR True RunTime: 1 RunTimeMinute: 410 OffTime: 21 LastHourCheck: 22 LastMinuteCheck 5
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 22:05:09.975684
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 22 LastHourCheck: 22 LastMinuteCheck 5
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 22:10:05.231477
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 20.7
+Moisture: 31
+Light: 73
+Conductivity: 846
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 20.7 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 31 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 73 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 846 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 20.7 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 31 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 73 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 846 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 22:10:08.319094
+####################### 
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 9 LastHourCheck: 22 LastMinuteCheck 10
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 22:10:09.736987
+####################### 
+###### SET RUN TIME 1
+###### SET RUN TIME MINUTE 415 DEBUG runTimeMinute: 410 diffMinute: 5 currentHour: 22
+###### ONE TIME RUN MIN:30
+###### ELSE STILL MORE AIR
+###### UPDATE THE RUN TIME FOR AIR True RunTime: 1 RunTimeMinute: 415 OffTime: 21 LastHourCheck: 22 LastMinuteCheck 10
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 22:10:10.108557
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 22 LastHourCheck: 22 LastMinuteCheck 10
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 22:15:05.439350
+####################### 
+##########################
+### RECOMMENDATION FAILED
+### with issue  database is locked
+##########################
+                          
+                          
+####################### 
+## STARTING SUN CHECK at 2023-03-10 22:15:10.464982
+####################### 
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 9 LastHourCheck: 22 LastMinuteCheck 15
+Traceback (most recent call last):
+  File "/home/weedle/weedlecode/main.py", line 33, in <module>
+    runAllElement()
+  File "/home/weedle/weedlecode/main.py", line 18, in runAllElement
+    runElement(plantSize,'SUN',sun)
+  File "/home/weedle/weedlecode/util/runElement.py", line 232, in runElement
+    conn.execute("UPDATE W_ELEMENT_RUNTIME SET STATE=?, RUN_TIME=?, RUN_TIME_MINUTE=?, OFF_TIME=?, LAST_MINUTE_CHECK=?, LAST_HOUR_CHECK=? WHERE AR_ID=?" ,
+sqlite3.OperationalError: database is locked
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 22:20:04.745706
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 20.6
+Moisture: 31
+Light: 94
+Conductivity: 838
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 20.6 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 31 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 94 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 838 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 20.6 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 31 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 94 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 838 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 22:20:07.230215
+####################### 
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 9 LastHourCheck: 22 LastMinuteCheck 20
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 22:20:08.597323
+####################### 
+###### SET RUN TIME 1
+###### SET RUN TIME MINUTE 425 DEBUG runTimeMinute: 415 diffMinute: 10 currentHour: 22
+###### ONE TIME RUN MIN:30
+###### ELSE STILL MORE AIR
+###### UPDATE THE RUN TIME FOR AIR True RunTime: 1 RunTimeMinute: 425 OffTime: 21 LastHourCheck: 22 LastMinuteCheck 20
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 22:20:08.939360
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 22 LastHourCheck: 22 LastMinuteCheck 20
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 22:25:04.914374
+####################### 
+##########################
+### RECOMMENDATION FAILED
+### with issue  database is locked
+##########################
+                          
+                          
+####################### 
+## STARTING SUN CHECK at 2023-03-10 22:25:09.935437
+####################### 
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 9 LastHourCheck: 22 LastMinuteCheck 25
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 22:25:13.532726
+####################### 
+###### SET RUN TIME 1
+###### SET RUN TIME MINUTE 430 DEBUG runTimeMinute: 425 diffMinute: 5 currentHour: 22
+###### ONE TIME RUN MIN:30
+###### ELSE STILL MORE AIR
+###### UPDATE THE RUN TIME FOR AIR True RunTime: 1 RunTimeMinute: 430 OffTime: 21 LastHourCheck: 22 LastMinuteCheck 25
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 22:25:13.894679
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 22 LastHourCheck: 22 LastMinuteCheck 25
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 22:30:04.904545
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 20.5
+Moisture: 31
+Light: 69
+Conductivity: 845
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 20.5 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 31 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 69 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 845 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 20.5 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 31 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 69 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 845 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 22:30:07.222924
+####################### 
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 9 LastHourCheck: 22 LastMinuteCheck 30
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 22:30:08.655293
+####################### 
+###### SET RUN TIME 1
+###### SET RUN TIME MINUTE 435 DEBUG runTimeMinute: 430 diffMinute: 5 currentHour: 22
+###### ONE TIME RUN MIN:30
+###### CONTRAINT MAX ONE MINUTE RUN: TURN OFF AIR
+###### UPDATE THE RUN TIME FOR AIR False RunTime: 1 RunTimeMinute: 435 OffTime: 21 LastHourCheck: 22 LastMinuteCheck 30
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 22:30:09.125528
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 22 LastHourCheck: 22 LastMinuteCheck 30
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 22:35:05.382033
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 20.4
+Moisture: 31
+Light: 94
+Conductivity: 846
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 20.4 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 31 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 94 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 846 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 20.4 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 31 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 94 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 846 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 22:35:07.262012
+####################### 
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF SUN
+###### UPDATE THE RUN TIME FOR SUN False RunTime: 13 RunTimeMinute: 720 OffTime: 9 LastHourCheck: 22 LastMinuteCheck 35
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 22:35:08.578577
+####################### 
+###### ONE TIME RUN MIN:30
+###### CONTRAINT MAX ONE MINUTE RUN: TURN OFF AIR
+###### UPDATE THE RUN TIME FOR AIR False RunTime: 1 RunTimeMinute: 435 OffTime: 21 LastHourCheck: 22 LastMinuteCheck 35
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 22:35:09.025703
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 22 LastHourCheck: 22 LastMinuteCheck 35
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 22:40:05.227757
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 20.3
+Moisture: 31
+Light: 124
+Conductivity: 852
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 20.3 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 31 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 124 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 852 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 20.3 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 31 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### IN PLACE RECOMMENDATION Weedle recommend to turn the ON SUN for the next 59 min current  SUN Value: 124 LUX vs Best Practices 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 852 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 22:40:08.440173
+####################### 
+###### ELSE STILL MORE SUN
+###### UPDATE THE RUN TIME FOR SUN True RunTime: 13 RunTimeMinute: 720 OffTime: 9 LastHourCheck: 22 LastMinuteCheck 40
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 22:40:08.932716
+####################### 
+###### ONE TIME RUN MIN:30
+###### CONTRAINT MAX ONE MINUTE RUN: TURN OFF AIR
+###### UPDATE THE RUN TIME FOR AIR False RunTime: 1 RunTimeMinute: 435 OffTime: 21 LastHourCheck: 22 LastMinuteCheck 40
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 22:40:09.417049
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 22 LastHourCheck: 22 LastMinuteCheck 40
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 22:45:04.239349
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 20.6
+Moisture: 31
+Light: 6336
+Conductivity: 843
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 20.6 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 31 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 6336 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 843 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 20.6 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 31 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### SUN IS GOOD FOR 6336 vs Best Practices min: 3600 max: 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 843 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 22:45:10.269402
+####################### 
+###### SET RUN TIME 13
+###### SET RUN TIME MINUTE 725 DEBUG runTimeMinute: 720 diffMinute: 5 currentHour: 22
+###### ELSE STILL MORE SUN
+###### UPDATE THE RUN TIME FOR SUN True RunTime: 13 RunTimeMinute: 725 OffTime: 9 LastHourCheck: 22 LastMinuteCheck 45
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 22:45:10.790178
+####################### 
+###### ONE TIME RUN MIN:30
+###### CONTRAINT MAX ONE MINUTE RUN: TURN OFF AIR
+###### UPDATE THE RUN TIME FOR AIR False RunTime: 1 RunTimeMinute: 435 OffTime: 21 LastHourCheck: 22 LastMinuteCheck 45
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 22:45:11.324798
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 22 LastHourCheck: 22 LastMinuteCheck 45
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 22:50:04.371371
+####################### 
+##########################
+### RECOMMENDATION FAILED
+### with issue  database is locked
+##########################
+                          
+                          
+####################### 
+## STARTING SUN CHECK at 2023-03-10 22:50:09.390161
+####################### 
+###### SET RUN TIME 13
+###### SET RUN TIME MINUTE 730 DEBUG runTimeMinute: 725 diffMinute: 5 currentHour: 22
+###### ELSE STILL MORE SUN
+###### UPDATE THE RUN TIME FOR SUN True RunTime: 13 RunTimeMinute: 730 OffTime: 9 LastHourCheck: 22 LastMinuteCheck 50
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 22:50:10.697735
+####################### 
+###### ONE TIME RUN MIN:30
+###### CONTRAINT MAX ONE MINUTE RUN: TURN OFF AIR
+###### UPDATE THE RUN TIME FOR AIR False RunTime: 1 RunTimeMinute: 435 OffTime: 21 LastHourCheck: 22 LastMinuteCheck 50
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 22:50:11.166746
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 22 LastHourCheck: 22 LastMinuteCheck 50
+                        
+                        
+####################### 
+## STARTING RECOMMENDATION 2023-03-10 22:55:05.315073
+####################### 
+                        
+FW: 3.3.6
+Name: Flower care
+Temperature: 21.5
+Moisture: 31
+Light: 8458
+Conductivity: 830
+###### UPDATE METRIC TRACKER with LATEST name: Temperature value 21.5 unit: CELCIUS
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Moisture value 31 unit: %
+###### UPDATE METRIC TRACKER with LATEST name: Sun value 8458 unit: LUX
+###### UPDATE METRIC TRACKER with LATEST name: Soil-Fertility value 830 unit: upS/cm
+                        
+### CHECK TEMPERATURE:   
+###### TEMPERATURE IS GOOD FOR 21.5 vs Best Practices min: 6 max: 35 CELCIUS
+                        
+### CHECK SOIL MOISTURE:   
+###### SOIL MOISTURE IS GOOD FOR 31 vs Best Practices min: 20 max: 70 %
+                        
+### CHECK SUN :   
+###### SUN IS GOOD FOR 8458 vs Best Practices min: 3600 max: 3600 LUX
+                        
+### CHECK SOIL FERTILITY :   
+###### SOIL FERTILITY IS GOOD FOR 830 vs Best Practices min: 50 max: 2000 upS/cm
+                        
+           ====== END RECOMENDATION!
+####################### 
+## STARTING SUN CHECK at 2023-03-10 22:55:09.478475
+####################### 
+###### SET RUN TIME 13
+###### SET RUN TIME MINUTE 735 DEBUG runTimeMinute: 730 diffMinute: 5 currentHour: 22
+###### ELSE STILL MORE SUN
+###### UPDATE THE RUN TIME FOR SUN True RunTime: 13 RunTimeMinute: 735 OffTime: 9 LastHourCheck: 22 LastMinuteCheck 55
+                        
+                        
+####################### 
+## STARTING AIR CHECK at 2023-03-10 22:55:09.952149
+####################### 
+###### ONE TIME RUN MIN:30
+###### CONTRAINT MAX ONE MINUTE RUN: TURN OFF AIR
+###### UPDATE THE RUN TIME FOR AIR False RunTime: 1 RunTimeMinute: 435 OffTime: 21 LastHourCheck: 22 LastMinuteCheck 55
+                        
+                        
+####################### 
+## STARTING WATER CHECK at 2023-03-10 22:55:10.490427
+####################### 
+###### MAX TIME RUN MINUTE:120
+###### BEST PRACTICE MIN MAX HOUR TIME: TURN OFF WATER
+###### UPDATE THE RUN TIME FOR WATER False RunTime: 0 RunTimeMinute: 0 OffTime: 22 LastHourCheck: 22 LastMinuteCheck 55
+                        
+                        

@@ -6,8 +6,7 @@ from miflora.miflora_poller import MiFloraPoller
 from btlewrap.bluepy import BluepyBackend
 from datetime import date
 
-mac = '5C:85:7E:B0:40:38'
-poller = MiFloraPoller(mac, BluepyBackend)
+#mac = '5C:85:7E:B0:40:38'
 
 def insTracker(conn, name, value, bpmin, bpmax, unit):
 	
@@ -57,7 +56,7 @@ def insRecommendation(conn, checkName, element,action,actionMin,currentfeeling,b
         print('###### IN PLACE RECOMMENDATION Weedle recommend to turn the '+action+' '+element+' for the next '
                     +str(actionMin)+' min current  '+checkName+' Value: '+str(currentfeeling)+' '+str(unit)+' vs Best Practices '+str(bestPractice)+' '+str(unit))
 
-def recommendation(plantSize):
+def weedleRecommendation(conn, plantSize):
  
     global currentTime
     currentTime = datetime.datetime.now()
@@ -67,11 +66,21 @@ def recommendation(plantSize):
     print('####################### ')
     print('## STARTING RECOMMENDATION '+str(currentTime))
     print('####################### ')  
-    # Connect to the database
-    conn = sqlite3.connect('/home/weedle/weedlecode/db/weedle.db')
-
-    conn.execute("delete from w_weedle_recommendation where date(day) < date('now','-3 days')")
     
+    # Connect to the database
+    #conn = sqlite3.connect('/home/weedle/weedlecode/db/weedle.db')
+ 
+    conn.execute("delete from w_weedle_recommendation where date(day) < date('now','-3 days')")
+ 
+    #get the mac of the device tracker
+    cursor = conn.execute("SELECT * FROM W_WEEDLE_GARDEN WHERE ACTIVITY=? ",
+			 ('DEVICE_METRIC',))
+    mac = -1
+    for row in cursor:
+        mac=row[5]
+    
+    poller = MiFloraPoller(mac, BluepyBackend)
+   
     #check Air Temperature Best Practices
     cursor = conn.execute("SELECT * FROM W_BEST_PRACTICE WHERE BP_OBJECT=? and BP_TYPE=? and PLANT_SIZE=?",
                          ('AIR','TEMPERATURE',plantSize))
@@ -171,8 +180,8 @@ def recommendation(plantSize):
     print('                        ')  
     print('           ====== END RECOMENDATION!');
     # Commit the changes
-    conn.commit()
+    #conn.commit()
     
     # Close the connection
-    conn.close()
+    #conn.close()
                      
